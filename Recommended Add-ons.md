@@ -181,12 +181,22 @@ An addon created by Nix, it works with Premiumize and Real-Debrid to stream torr
 > Installation:
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
-> 3. The path for the source is https://bbviking.github.io/ (Give it a name [SourceName]).
+> 3. The path for the source is https://nixgates.github.io/packages/ (Give it a name [SourceName]).
 > 4. Go to "Add-ons"
 > 5. In Add-ons, select Install add-on from zip
-> 6. Select plugin.video.seren-*.zip
+> 6. Select repository.nixgates-*.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Video add-ons" section in the repo, and select Seren add-on
+> 10. Once installed, go back to the Kodi file manager
+> 11. Click on "Add source"
+> 12. The path for the source is https://bbviking.github.io/ (Give it a name [SourceName]).
+> 13. Go to "Add-ons"
+> 14. In Add-ons, select Install add-on from zip
+> 15. Select plugin.video.seren-*.zip
 
 > [!NOTE]
+> FOR THE ADDON TO WORK YOU MUST FOLLOWS THESE STEPS AS WELL
 > - Open Seren, go to tools, Open Settings Menu
 > - Go to Accounts and authenticate Trakt and your debrid providers: Premiumize, Real Debrid, and/or All Debrid
 > - Go to Providers, Manage Provider Packages, and Install Package.
