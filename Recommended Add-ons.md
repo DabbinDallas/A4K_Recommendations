@@ -161,10 +161,6 @@ An addon created by Nix, it works with Premiumize and Real-Debrid to stream torr
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a Trakt account
 
-> [!TIP]
-> Optional: Install Context menu addon.
-> From the Nixgates Repo install context menu addons. This will give you many more options when you pull up context menu on Seren Items.
-
 > [!IMPORTANT]
 > Installation:
 > 1. Go to the Kodi file manager
