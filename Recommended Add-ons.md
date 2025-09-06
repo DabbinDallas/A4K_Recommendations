@@ -85,6 +85,25 @@ This is an add-on that specialises in Furk and Easynews(web) account access but 
 > 6. When asked for the location, select [SourceName].
 > 7. Select plugin.video.fenlight-*.zip
 
+## Mad Titan Sports
+This is an add-on that specialises in Live Sports and Replays (NFL, NHL, NCAA, MLB, NBA, WWE, ETC.) as well as PPV. It also has a Live TV section
+> [!WARNING]
+> - This is mostly a P2P addon (Live Streams/TV) so you might want to use a VPN depending on your country's laws
+> - Real-Debrid optional but recommended for high quality replays
+> - For live streams you might have to try different links to get a stable experience and some links will require the use of a vpn to even load
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is http://magnetic.website/repo (Give it a name [SourceName]).
+> 4. Go to "Add-ons"
+> 5. In Add-ons, select Install add-on from zip
+> 6. When asked for the location, select [SourceName], and install repository.Magnetic-*.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Video add-ons" section in the repo, and select Mad Titan Sports add-on and JetProxy add-on (recommended for Live Streams/TV)
+
 ## Otaku/Otaku Testing
 This is an anime addon forked from Kaito by TeamOtaku. Very good to watch all the anime you want! The testing variant is currently maintained and adds alot of QoL features to the original (Recommended as the main add-on, with the original being a backup)
 > [!WARNING]
@@ -116,7 +135,7 @@ POV is a Kodi add-on that allows you to stream movies and TV shows from premium 
 > 3. The path for the source is https://kodifitzwell.github.io/repo/ (Give it a name [SourceName]).
 > 4. Go to "Add-ons"
 > 5. In Add-ons, select Install add-on from zip
-> 6. When asked for the location, select [SourceName], and install repository.kodifitzwell-x.x.x.zip
+> 6. When asked for the location, select [SourceName], and install repository.kodifitzwell-*.zip
 > 7. Go back to Add-ons install, but this time, select "Install from repository"
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select POV add-on
@@ -162,6 +181,14 @@ An addon created by Nix, it works with Premiumize and Real-Debrid to stream torr
 > 4. Go to "Add-ons"
 > 5. In Add-ons, select Install add-on from zip
 > 6. Select plugin.video.seren-*.zip
+
+> [!NOTE]
+> - Open Seren, go to tools, Open Settings Menu
+> - Go to Accounts and authenticate Trakt and your debrid providers: Premiumize, Real Debrid, and/or All Debrid
+> - Go to Providers, Manage Provider Packages, and Install Package.
+> - Type in https://bit.ly/a4kScrapers
+> - A prompt will come up asking if you'd like to install the scrapers, Press "Install", then Press Okay after successful install
+> - Adjust your setting how you like with filters and such and you're ready to go! :)
 
 ## Umbrella
 This addon started as a Venom fork that specializes in cached torrents, Easynews(web) account access, and also can use Orion scrapers & CocoScrapers.
