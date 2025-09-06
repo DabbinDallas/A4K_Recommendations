@@ -54,19 +54,21 @@ This is an add-on that specialises in Live Sports (Soccer, Basketball, Baseball,
 
 > [!WARNING]
 > This is a P2P addon, if you use it, you may want to use a VPN
+> Some links may not work well (freezing, buffering, failed to load) so be ready to try other links for the specific channel youre trying to watch
 
 > [!IMPORTANT]
 > Installation:
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
-> 3. The path for the source is  https://team-crew.github.io (Give it a name [SourceName]).
-> 4. If you find the add-on isnt working properly from the above link then you can try: 
-> 5. Go to "Add-ons"
-> 6. In Add-ons, select Install add-on from zip
-> 7. When asked for the location, select [SourceName], and install elementum
-> 8. Go back to Add-ons install, but this time, select "Install from repository"
-> 9. Select the [Repository Name]
-> 10. Go into the "Video add-ons" section in the repo, and select plugin.video.elementum add-on
+> 3. This is the path for DaddyLive https://team-crew.github.io (Give it a name [SourceName]).
+> 4. If you find the Original DaddyLive add-on isnt working properly try this path: https://fubuz.github.io/
+> 5. This is the path for DaddyLive V2 https://cmanbuilds.com/repo (Give it a name [SourceName]).
+> 6. Go to "Add-ons"
+> 7. In Add-ons, select Install add-on from zip
+> 8. When asked for the location, select [SourceName], and install repository.[RepositoryName]-*.zip
+> 9. Go back to Add-ons install, but this time, select "Install from repository"
+> 10. Select the [Repository Name]
+> 11. Go into the "Video add-ons" section in the repo, and select DaddyLive/DaddyLive V2
 
 
 ## Elementum & Elementum Burst
