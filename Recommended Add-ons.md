@@ -173,6 +173,9 @@ Add-on for free links to movies and tv shows created by Jewbmx
 
 ## Seren
 An addon created by Nix, it works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Next up Dialogs. With source select / Resolver / Next up Dialog and more all theme-able. GitHub - a4k-openproject/a4kOfficial
+
+THIS ADD-ON IS OUTDATED AND NOT ACTIVELY MAINTAINED, WHEN KODI 22 COMES OUT IT WILL CEASE TO WORK UNTIL SOMEONE MAKES AN UPDATE. ONLY USE THIS ADDON IF YOUR LOOKING FOR A VERY WATERED DOWN ADDON WITH MINIMAL MENU/SETTING OPTIONS. 
+
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a Trakt account
