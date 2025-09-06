@@ -123,13 +123,14 @@ This is an add-on that specialises in Live Sports and Replays (NFL, NHL, NCAA, M
 This is an anime addon forked from Kaito by TeamOtaku. Very good to watch all the anime you want! The testing variant is currently maintained and adds alot of QoL features to the original (Recommended as the main add-on, with the original being a backup)
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
+> - Requires watchlist providers (eg. MyAnimeList, Anilist, Kitsu)
 
 > [!IMPORTANT]
 > Installation:
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
 > 3. The path for the source is
-  Otaku Testing: https://goldenfreddy0703.github.io/repository.otaku.testing (Give name [SourceName]).
+  Otaku Testing: https://goldenfreddy0703.github.io/repository.otaku.testing (Give a name [SourceName]).
   Otaku: https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName]).
 > 5. Go to "Add-ons"
 > 6. In Add-ons, select Install add-on from zip
