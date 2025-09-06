@@ -18,7 +18,7 @@ This addon started as a Shadow fork by Team Asgard. This is an addon that specia
 > 9. Go into the "Video add-ons" section in the repo, and select Asgard add-on
 
 ## CocoScrapers
-This is a required add-on for specific add-ons in this list (FenlightAM and Umbrella), it is a third party scraper to resolve torrent links (the main function of these add-ons)
+This is a required add-on for specific add-ons in this list (Ezra, FenlightAM, and Umbrella), it is a third party scraper to resolve torrent links (the main function of these add-ons)
 
 > [!IMPORTANT]
 > Installation:
