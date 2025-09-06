@@ -49,6 +49,26 @@ An Exodus fork, with lots of sections for niche content. They have sections for 
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select The Crew
 
+## DaddyLive/DaddyLive V2
+This is an add-on that specialises in Live Sports (Soccer, Basketball, Baseball, Football, Wrestling, Motorsport, Cricket, etc.) and Live TV. It is built around the official website for Daddylive
+
+> [!WARNING]
+> This is a P2P addon, if you use it, you may want to use a VPN
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is  https://team-crew.github.io (Give it a name [SourceName]).
+> 4. If you find the add-on isnt working properly from the above link then you can try: 
+> 5. Go to "Add-ons"
+> 6. In Add-ons, select Install add-on from zip
+> 7. When asked for the location, select [SourceName], and install elementum
+> 8. Go back to Add-ons install, but this time, select "Install from repository"
+> 9. Select the [Repository Name]
+> 10. Go into the "Video add-ons" section in the repo, and select plugin.video.elementum add-on
+
+
 ## Elementum & Elementum Burst
 A fork of Quasar, Elementum uses a new torrent engine with extra features such as streaming directly to memory, downloading to FAT32 systems or NAS. Elementum can sync with Trakt and supports library integration. Official Site: http://elementum.surge.sh/
 > [!WARNING]
@@ -129,9 +149,8 @@ This is an anime addon forked from Kaito by TeamOtaku. Very good to watch all th
 > Installation:
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
-> 3. The path for the source is
-  Otaku Testing: https://goldenfreddy0703.github.io/repository.otaku.testing (Give a name [SourceName]).
-  Otaku: https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName]).
+> 3. This is the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName])
+> 4. This is the path for Otaku https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName])
 > 5. Go to "Add-ons"
 > 6. In Add-ons, select Install add-on from zip
 > 7. When asked for the location, select [SourceName], and install repository.otaku-*.zip
