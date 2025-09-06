@@ -161,14 +161,6 @@ An addon created by Nix, it works with Premiumize and Real-Debrid to stream torr
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a Trakt account
 
-> [!NOTE]
-> - Open Seren, go to tools, Open Settings Menu
-> - Go to Accounts and authenticate Trakt and your debrid providers: Premiumize, Real Debrid, and/or All Debrid
-> - Go to Providers, Manage Provider Packages, and Install Package.
-> - Type in https://bit.ly/a4kScrapers
-> - A prompt will come up asking if you'd like to install the scrapers, Press "Install", then Press Okay after successful install
-> - Adjust your setting how you like with filters and such and you're ready to go! :)
-
 > [!TIP]
 > Optional: Install Context menu addon.
 > From the Nixgates Repo install context menu addons. This will give you many more options when you pull up context menu on Seren Items.
@@ -189,6 +181,10 @@ An addon created by Nix, it works with Premiumize and Real-Debrid to stream torr
 > - Type in https://bit.ly/a4kScrapers
 > - A prompt will come up asking if you'd like to install the scrapers, Press "Install", then Press Okay after successful install
 > - Adjust your setting how you like with filters and such and you're ready to go! :)
+
+> [!TIP]
+> Optional: Install Context menu addon.
+> From the Nixgates Repo install context menu addons. This will give you many more options when you pull up context menu on Seren Items.
 
 ## Umbrella
 This addon started as a Venom fork that specializes in cached torrents, Easynews(web) account access, and also can use Orion scrapers & CocoScrapers.
