@@ -17,6 +17,21 @@ This addon started as a Shadow fork by Team Asgard. This is an addon that specia
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select Asgard add-on
 
+## CocoScrapers
+This is a required add-on for specific add-ons in this list (FenlightAM and Umbrella), it is a third party scraper to resolve torrent links (the main function of these add-ons)
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is https://cocojoe2411.github.io/ (Give it a name [SourceName]).
+> 4. Go to "Add-ons"
+> 5. In Add-ons, select Install add-on from zip
+> 6. When asked for the location, select [SourceName], and install repository.cocoscrapers-*.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Program add-ons" section in the repo, and select CocoScrapers Module
+
 ## The Crew
 An Exodus fork, with lots of sections for niche content. They have sections for sports, standup, adult content, and even live TV streams! Their official support channel is on Telegram: https://t.me/joinchat/MbCgH0kbQ5NqkeIm7JaCZg
 > [!WARNING]
