@@ -95,8 +95,7 @@ This is an anime addon forked from Kaito by TeamOtaku. Very good to watch all th
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
 > 3. The path for the source is
-  Otaku Testing: https://goldenfreddy0703.github.io/repository.otaku.testing  (Give it a name [SourceName]).
-  
+  Otaku Testing: https://goldenfreddy0703.github.io/repository.otaku.testing (Give name [SourceName]).
   Otaku: https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName]).
 > 5. Go to "Add-ons"
 > 6. In Add-ons, select Install add-on from zip
