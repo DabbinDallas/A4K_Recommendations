@@ -86,7 +86,7 @@ This is an add-on that specialises in Furk and Easynews(web) account access but 
 > 7. Select plugin.video.fenlight-*.zip
 
 ## Mad Titan Sports
-This is an add-on that specialises in Live Sports and Replays (NFL, NHL, NCAA, MLB, NBA, WWE, ETC.) as well as PPV. It also has a Live TV section
+This is an add-on that specialises in Live Sports and Replays (NFL, NHL, NCAA, MLB, NBA, WWE, etc.) as well as PPV. It also has a Live TV section
 > [!WARNING]
 > - This is mostly a P2P addon (Live Streams/TV) so you might want to use a VPN depending on your country's laws
 > - Real-Debrid optional but recommended for high quality replays
