@@ -26,10 +26,9 @@ Example Installation Instructions
 > - [ ] This is a P2P add-on, if you use it, you may want to use a VPN
 
 > [!NOTE]
-> FOR THE ADDON TO WORK YOU MUST FOLLOWS THESE STEPS AS WELL
-> - Open Seren, go to tools, Open Settings Menu
-> - Go to Accounts and authenticate Trakt and your debrid providers: Premiumize, Real Debrid, and/or All Debrid
-> - Go to Providers, Manage Provider Packages, and Install Package.
-> - Type in https://bit.ly/a4kScrapers
-> - A prompt will come up asking if you'd like to install the scrapers, Press "Install", then Press Okay after successful install
-> - Adjust your setting how you like with filters and such and you're ready to go! :)
+> Extra
+
+
+> [!IMPORTANT]
+> Installation:
+
