@@ -1,6 +1,6 @@
 # Requesting an add-on to be added to the recommendations list
 
-If you would like to request an add-on be added, please [submit an issue](https://github.com/a4k-mod/A4K_Recommendations/issues) with the following information:
+If you would like to request an add-on be added, please [submit an issue](https://github.com/DabbinDallas/A4K_Recommendations/issues) with the following information:
 
 ## Basic Information to Include
 - [ ] Name of add-on
