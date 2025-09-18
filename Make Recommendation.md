@@ -8,7 +8,7 @@ If you would like to request an add-on be added, please [submit an issue](https:
 - [ ] Instructions for installing add-on including associated repository
 - [ ] Any important notes for the add-on
 
-> [!TIP]
+> [!IMPORTANT]
 Example Installation Instructions
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
@@ -29,6 +29,6 @@ Example Installation Instructions
 > Extra
 
 
-> [!IMPORTANT]
+> [!TIP]
 > Installation:
 
