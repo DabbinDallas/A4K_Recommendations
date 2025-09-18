@@ -1,6 +1,6 @@
 # Requesting an add-on to be added to the recommendations list
 
-If you would like to request an add-on be added, please fork the [Recommended Add-ons](https://github.com/a4k-mod/A4K_Recommendations/blob/fd69bf7c878fa07f7bb6682175936889f2763a17/Recommended%20Add-ons.md) file & add your recommendation using the following information template:
+If you would like to request an add-on be added, please submit an issue with the following information:
 
 ## Basic Information to Include
 - [ ] Name of add-on
