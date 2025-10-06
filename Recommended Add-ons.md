@@ -250,8 +250,10 @@ This addon started as a Venom fork that specializes in cached torrents, Easynews
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select Umbrella add-on
 
-
-
+#
+#
+#
+#
 # Scraper Add-ons
 
 ## CocoScrapers
