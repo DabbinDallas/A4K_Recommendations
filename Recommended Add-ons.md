@@ -60,7 +60,7 @@ A fork of Quasar, Elementum uses a new torrent engine with extra features such a
 This is an add-on that specialises in Furk and Easynews(web) account access but offers external providers if you would like regular hosters as well.
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
-> - Requires a [Third Party Scraper](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Third%20Party%20Scrapers.md) to function
+> - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
 
 > [!IMPORTANT]
 > Installation:
@@ -188,7 +188,7 @@ THIS ADD-ON IS OUTDATED AND NOT ACTIVELY MAINTAINED, WHEN KODI 22 COMES OUT IT W
 This addon started as a Venom fork that specializes in cached torrents, Easynews(web) account access, and also can use Orion scrapers & CocoScrapers.
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
-> - Requires a [Third Party Scraper](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Third%20Party%20Scrapers.md) to function
+> - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
 
 > [!IMPORTANT]
 > Installation:
@@ -203,4 +203,4 @@ This addon started as a Venom fork that specializes in cached torrents, Easynews
 > 9. Go into the "Video add-ons" section in the repo, and select Umbrella add-on
 
 >[!NOTE]
-> Third Party Scraper
+> External Scraper Module Setup:
