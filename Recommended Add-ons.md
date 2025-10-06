@@ -201,3 +201,6 @@ This addon started as a Venom fork that specializes in cached torrents, Easynews
 > 7. Go back to Add-ons install, but this time, select "Install from repository"
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select Umbrella add-on
+
+>[!NOTE]
+> Third Party Scraper
