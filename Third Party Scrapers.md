@@ -1,5 +1,5 @@
 ## CocoScrapers
-This is a required add-on for specific add-ons in this list (Ezra, FenlightAM, and Umbrella), it is a third party scraper to resolve torrent links (the main function of these add-ons)
+This is a required add-on for specific add-ons in the [Recommended Add-ons](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Recommended%20Add-ons.md) list (Ezra, FenlightAM, and Umbrella), it is a third party scraper to resolve torrent links (the main function of these add-ons)
 
 > [!IMPORTANT]
 > Installation:
@@ -14,7 +14,7 @@ This is a required add-on for specific add-ons in this list (Ezra, FenlightAM, a
 > 9. Go into the "Program add-ons" section in the repo, and select CocoScrapers Module
 
 ## Magneto Module
-This is a required add-on for specific add-ons in this list (Ezra, FenlightAM, and Umbrella), it is a third party scraper to resolve torrent links (the main function of these add-ons)
+This is a required add-on for specific add-ons in [Recommended Add-ons](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Recommended%20Add-ons.md) list (Ezra, FenlightAM, and Umbrella), it is a third party scraper to resolve torrent links (the main function of these add-ons)
 
 > [!IMPORTANT]
 > Installation:
