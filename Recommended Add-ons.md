@@ -1,22 +1,5 @@
 # Recommended Add-ons
-
-## Asgard
-This addon started as a Shadow fork by Team Asgard. This is an addon that specializes in cached torrents, Easynews(web) account access, direct links, live tv, sports replay and also can use Orion scrapers.
-> [!WARNING]
-> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
-
-> [!IMPORTANT]
-> Installation:
-> 1. Go to the Kodi file manager
-> 2. Click on "Add source"
-> 3. The path for the source is https://mylostsoulspace.co.uk/repo (Give it a name [SourceName]).
-> 4. Go to "Add-ons"
-> 5. In Add-ons, select Install add-on from zip
-> 6. When asked for the location, select [SourceName], and install repository.NarcacistWizard-*.zip
-> 7. Go back to Add-ons install, but this time, select "Install from repository"
-> 8. Select the [Repository Name]
-> 9. Go into the "Video add-ons" section in the repo, and select Asgard add-on
-
+#
 ## The Crew
 An Exodus fork, with lots of sections for niche content. They have sections for sports, standup, adult content, and even live TV streams! Their official support channel is on Telegram: https://t.me/joinchat/MbCgH0kbQ5NqkeIm7JaCZg
 > [!WARNING]
@@ -73,24 +56,6 @@ A fork of Quasar, Elementum uses a new torrent engine with extra features such a
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select plugin.video.elementum add-on
 
-## Ezra
-This addon started as a Venom fork. This is an addon that specializes in cached torrents, Easynews(web) account access, and also can use Orion scrapers. Main scrapers used are called CocoScrapersCreated by: Ezra Team
-> [!WARNING]
-> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
-> - Requires a [Third Party Scraper](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Third%20Party%20Scrapers.md) to function
-
-> [!IMPORTANT]
-> Installation:
-> 1. Go to the Kodi file manager
-> 2. Click on "Add source"
-> 3. The path for the source is https://ezra-hubbard.github.io/ (Give it a name [SourceName]).
-> 4. Go to "Add-ons"
-> 5. In Add-ons, select Install add-on from zip
-> 6. When asked for the location, select [SourceName], and install repository.ezra-*.zip
-> 7. Go back to Add-ons install, but this time, select "Install from repository"
-> 8. Select the [Repository Name]
-> 9. Go into the "Video add-ons" section in the repo, and select Ezra add-on
-
 ## FEN Light AM
 This is an add-on that specialises in Furk and Easynews(web) account access but offers external providers if you would like regular hosters as well.
 > [!WARNING]
@@ -136,8 +101,8 @@ This is an anime addon forked from Kaito by TeamOtaku. Very good to watch all th
 > Installation:
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
-> 3. This is the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName])
-> 3.1. This is the path for Otaku https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName])
+> 3. This is the path for Otaku https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName])
+> 3.1. This is the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName])
 > 4. Go to "Add-ons"
 > 5. In Add-ons, select Install add-on from zip
 > 6. When asked for the location, select [SourceName], and install repository.otaku-*.zip
@@ -164,6 +129,8 @@ POV is a Kodi add-on that allows you to stream movies and TV shows from premium 
 
 ## Scrubs v2
 Add-on for free links to movies and tv shows created by Jewbmx
+> [!WARNING]
+> This is a P2P addon, if you use it, you may want to use a VPN
 
 > [!IMPORTANT]
 > Installation:
