@@ -184,12 +184,12 @@ THIS ADD-ON IS OUTDATED AND NOT ACTIVELY MAINTAINED, WHEN KODI 22 COMES OUT IT W
 
 > [!NOTE]
 > FOR THE ADDON TO WORK YOU MUST FOLLOWS THESE STEPS AS WELL
-> - Open Seren, go to tools, Open Settings Menu
-> - Go to Accounts and authenticate Trakt and your debrid providers: Premiumize, Real Debrid, and/or All Debrid
-> - Go to Providers, Manage Provider Packages, and Install Package.
-> - Type in https://bit.ly/a4kScrapers
-> - A prompt will come up asking if you'd like to install the scrapers, Press "Install", then Press Okay after successful install
-> - Adjust your setting how you like with filters and such and you're ready to go! :)
+> 1. In Seren go to tools
+> 2. Open Settings Menu
+> 3. Go to Accounts and authenticate Trakt and your debrid providers: Premiumize, Real Debrid, and/or All Debrid
+> 4. Scroll down to the Providers tab and click on Manage Provider Packages > Install Package.
+> 5. Type in https://bit.ly/a4kScrapers
+> 6. A prompt will come up asking if you'd like to install the scrapers, Press "Install", then Press Okay after successful install
 
 > [!TIP]
 > Optional: Install Context menu addon.
