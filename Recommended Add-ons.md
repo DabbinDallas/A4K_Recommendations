@@ -72,6 +72,16 @@ This is an add-on that specialises in Furk and Easynews(web) account access but 
 > 6. When asked for the location, select [SourceName].
 > 7. Select plugin.video.fenlight-*.zip
 
+>[!NOTE]
+> External Scraper Module Setup:
+> 1. Inside FenlightAM go into Tools
+> 2. Click on Settings
+> 3. Go down to the Accounts tab 
+> 4. Enable External Scrapers
+> 5. Click on Choose External Scrapers Module
+> 6. Look for the name of your Module and click on it
+> 7. When done a box will pop up saying "Success [External Scraper Name] set as External Scraper
+ 
 ## Mad Titan Sports
 This is an add-on that specialises in Live Sports and Replays (NFL, NHL, NCAA, MLB, NBA, WWE, etc.) as well as PPV. It also has a Live TV section
 > [!WARNING]
@@ -204,3 +214,8 @@ This addon started as a Venom fork that specializes in cached torrents, Easynews
 
 >[!NOTE]
 > External Scraper Module Setup:
+> 1. Inside Umbrella go into Tools
+> 2. Click on Settings:Providers
+> 3. Click on External Provider: ________
+> 4. Look for your External Scraper Module (CocoScrapers or Magneto) and Click it to set it as the provider
+> 5. When done a message will pop up on the top-right of your screen saying "External module set successfully"
