@@ -80,7 +80,8 @@ This is an add-on that specialises in Furk and Easynews(web) account access but 
 > 4. Enable External Scrapers
 > 5. Click on Choose External Scrapers Module
 > 6. Look for the name of your Module and click on it
-> 7. When done a box will pop up saying "Success [External Scraper Name] set as External Scraper
+> 7. When done a box will pop up saying "Success [External Scraper Name] set as External Scraper"
+> 8. Press OK
  
 ## Mad Titan Sports
 This is an add-on that specialises in Live Sports and Replays (NFL, NHL, NCAA, MLB, NBA, WWE, etc.) as well as PPV. It also has a Live TV section
