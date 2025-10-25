@@ -114,13 +114,13 @@ This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch 
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
 > 3. This is the path for Otaku https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName])
-> 3.1. This is the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName])
-> 4. Go to "Add-ons"
-> 5. In Add-ons, select Install add-on from zip
-> 6. When asked for the location, select [SourceName], and install repository.otaku-*.zip
-> 7. Go back to Add-ons install, but this time, select "Install from repository"
-> 8. Select the [Repository Name]
-> 9. Go into the "Video add-ons" section in the repo, and select Otaku/Otaku Testing add-on
+> 4. OR This is the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName])
+> 5. Go to "Add-ons"
+> 6. In Add-ons, select Install add-on from zip
+> 7. When asked for the location, select [SourceName], and install repository.otaku-*.zip
+> 8. Go back to Add-ons install, but this time, select "Install from repository"
+> 9. Select the [Repository Name]
+> 10. Go into the "Video add-ons" section in the repo, and select Otaku/Otaku Testing add-on
 
 > [!NOTE]
 > Watchlist Provider Setup:
