@@ -2,7 +2,7 @@
 This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch all the anime you want! The testing variant gets updated faster but as of now Otaku has been updated to include the major changes that Otaku Testing added so unless you know how to troubleshoot it'd be better to stick with Otaku over Otaku Testing
 
 > [!WARNING]
-> - Paid premium providers (eg. Premiumize, Real Debrid, All-Debrid, etc.) provide a way better experience but it can be used without if your ok with low quality sources
+> - Paid premium providers (eg. Premiumize, Real Debrid, All-Debrid, etc.) provide a way better experience but it can be used without if your ok with low quality website sources with minimal subtitles instead of Bluray/Webrip quality torrents with multi-audio/multi-subs
 > - Requires watchlist providers (eg. MyAnimeList, Anilist, Kitsu)
 
 > [!IMPORTANT]
@@ -51,9 +51,9 @@ This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch 
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b4994eec-ab11-4e23-823b-7225de7d1962" />
 > 6. Click to authorize
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ed977cdf-39cd-410c-aec2-2a38d143d6a3" />
-> 7. Follow onscreen instructions ( ***This part is where different watchlist providers will give different instructions so pay attention to what the screen is telling you to do*** )
+> 7. Follow onscreen instructions (THIS PART IS WHERE DIFFERENT WATCHLIST PROVIDERS WILL GIVE DIFFERENT INSTRUCTIONS SO PAY ATTENTION TO WHAT THE SCREEN IS TELLING YOU TO DO)
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7135ad98-72fd-4ff5-9b6d-7e649f4518b9" />
-> 8. Copy and paste the link provided in the on screen instructions (for MAL the link is: https://armkai.vercel.app/api/mal)
+> 8. Copy and paste the link provided in the on screen instructions into your browser (for MAL the link is: https://armkai.vercel.app/api/mal)
 > <img width="1280" height="720" alt="firefox_Tr9klMSBgb" src="https://github.com/user-attachments/assets/a1ff7883-2ef9-40fb-b3d0-f11f0c9e96e1" />
 > 9. Sign into your watchlist provider account (create your account on the main website before you get to this step so you can just sign in) and after signing in you should get redirected to this page, click on Allow
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/798b3684-9036-40ac-8d77-effd4e37f156" />
