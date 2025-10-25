@@ -113,14 +113,15 @@ This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch 
 > Installation:
 > 1. Go to the Kodi file manager
 > 2. Click on "Add source"
-> 3. This is the path for Otaku https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName])
-> 4. OR This is the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName])
-> 5. Go to "Add-ons"
-> 6. In Add-ons, select Install add-on from zip
-> 7. When asked for the location, select [SourceName], and install repository.otaku-*.zip
-> 8. Go back to Add-ons install, but this time, select "Install from repository"
-> 9. Select the [Repository Name]
-> 10. Go into the "Video add-ons" section in the repo, and select Otaku/Otaku Testing add-on
+> 3. Click on "Enter path..."
+> 4. Enter the path for Otaku https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName])
+> 5. OR Enter the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName])
+> 6. Go to "Add-ons"
+> 7. In Add-ons, select "Install from zip file"
+> 8. When asked for the location, select [SourceName], and install repository.otaku-*.zip
+> 9. Go back to Add-ons, but this time, select "Install from repository"
+> 10. Select the [Repository Name]
+> 11. Go into the "Video add-ons" section in the repo, and select Otaku/Otaku Testing add-on and click on "Install"
 
 > [!NOTE]
 > Watchlist Provider Setup:
@@ -128,10 +129,9 @@ This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch 
 > 2. Open Settings Menu
 > 3. Scroll down to Watchlist on the left side
 > 4. Turn on Update Watchlist and choose your Watchlist to update
-> 5. Enable Sync Completed
-> 6. Enable your Watchlist provider (eg. Anilist, MyAnimeList, Trakt)
-> 7. Click to authorize
-> 8. Follow onscreen instructions
+> 5. Enable your Watchlist provider (eg. Anilist, MyAnimeList, Trakt)
+> 6. Click to authorize
+> 7. Follow onscreen instructions
 
 ## POV
 POV is a Kodi add-on that allows you to stream movies and TV shows from premium sources. Based on Fen, POV is very fast, and it has many of the features from its predecessor.
