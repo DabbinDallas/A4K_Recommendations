@@ -42,26 +42,26 @@ This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch 
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d7ef7917-724e-4ad3-897e-954c1d2b578a" />
 > 2. Open Settings Menu     
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5e9fa7ce-39e5-4827-821e-ba0d728aabe1" />
-> 4. Scroll down to Watchlist on the left side
+> 3. Scroll down to Watchlist on the left side
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9bc96d5f-b8a7-4030-b2ed-1d85353e8d5a" />
-> 5. Turn on Update Watchlist and choose your Watchlist to update
+> 4. Turn on Update Watchlist and choose your Watchlist to update
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e02d66fd-957d-492a-86a2-ba7c2b7bd1e0" />
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b54de58d-ce14-4518-8776-d6fd16a7dc2f" />
-> 6. Enable your Watchlist provider
+> 5. Enable your Watchlist provider
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b4994eec-ab11-4e23-823b-7225de7d1962" />
-> 7. Click to authorize
+> 6. Click to authorize
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ed977cdf-39cd-410c-aec2-2a38d143d6a3" />
-> 8. Follow onscreen instructions ( ***This part is where different watchlist providers will give different instructions so pay attention to what the screen is telling you to do*** )
+> 7. Follow onscreen instructions ( ***This part is where different watchlist providers will give different instructions so pay attention to what the screen is telling you to do*** )
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7135ad98-72fd-4ff5-9b6d-7e649f4518b9" />
-> 9. Copy and paste the link provided in the on screen instructions (for MAL the link is: https://armkai.vercel.app/api/mal)
+> 8. Copy and paste the link provided in the on screen instructions (for MAL the link is: https://armkai.vercel.app/api/mal)
 > <img width="1280" height="720" alt="firefox_Tr9klMSBgb" src="https://github.com/user-attachments/assets/a1ff7883-2ef9-40fb-b3d0-f11f0c9e96e1" />
-> 10. Sign into your watchlist provider account (create your account on the main website before you get to this step so you can just sign in) and after signing in you should get redirected to this page, click on Allow
+> 9. Sign into your watchlist provider account (create your account on the main website before you get to this step so you can just sign in) and after signing in you should get redirected to this page, click on Allow
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/798b3684-9036-40ac-8d77-effd4e37f156" />
-> 11. This will take you to the homepage of MAL but the link to the page will be a custom link that you must copy and paste back in Kodi
+> 10. This will take you to the homepage of MAL but the link to the page will be a custom link that you must copy and paste back in Kodi
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/641bb7a6-26c6-4d70-81d8-c70e0c83170a" />
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d1074ce3-bbdc-461a-8ec1-f8e33dc1866f" />
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c56d52e5-7a2f-42ec-835f-91547de5be71" />
-> 12. Once the link has been copied and pasted into the Auth Url box then you click on authorize to complete the setup
+> 11. Once the link has been copied and pasted into the Auth Url box then you click on authorize to complete the setup
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/99c2140c-00a6-4ae7-a8ea-54c22958cdf9" />
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ec8625c-711e-4fed-9020-368277f66212" />
 
