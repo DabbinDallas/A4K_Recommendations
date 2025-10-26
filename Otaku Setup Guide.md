@@ -1,5 +1,5 @@
-## Otaku/Otaku Testing
-This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch all the anime you want! The testing variant gets updated faster but as of now Otaku has been updated to include the major changes that Otaku Testing added so unless you know how to troubleshoot it'd be better to stick with Otaku over Otaku Testing
+# Otaku/Otaku Testing
+## This is an anime addon forked from Kaito by TeamOtaku. The best add-on to watch all the anime you want! The testing variant gets updated faster but as of now Otaku has been updated to include the major changes that Otaku Testing added so unless you know how to troubleshoot it'd be better to stick with Otaku over Otaku Testing
 
 > [!WARNING]
 > - Paid premium providers (eg. Premiumize, Real Debrid, All-Debrid, etc.) provide a way better experience but it can be used without if your ok with low quality website sources with minimal subtitles instead of Bluray/Webrip quality torrents with multi-audio/multi-subs
