@@ -8,6 +8,11 @@ If you would like to request an add-on be added, please [submit an issue](https:
 - [ ] Instructions for installing add-on including associated repository
 - [ ] Any important notes for the add-on
 
+> [!WARNING]
+> - [ ] Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
+> - [ ] Requires CocoScrapers to be installed
+> - [ ] This is a P2P add-on, if you use it, you may want to use a VPN
+
 > [!IMPORTANT]
 Example Installation Instructions
 > 1. Go to the Kodi file manager
@@ -19,11 +24,6 @@ Example Installation Instructions
 > 7. Go back to Add-ons install, but this time, select "Install from repository"
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select [Add-on Name].zip
-
-> [!WARNING]
-> - [ ] Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
-> - [ ] Requires CocoScrapers to be installed
-> - [ ] This is a P2P add-on, if you use it, you may want to use a VPN
 
 > [!NOTE]
 > Extra information for the specific addon like extra setup for the addon to work or information for setting up a watchlist provider
