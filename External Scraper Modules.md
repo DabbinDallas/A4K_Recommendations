@@ -1,3 +1,4 @@
+# External Scraper Modules
 ## CocoScrapers
 This is a required add-on for specific add-ons in the [Recommended Add-ons](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Recommended%20Add-ons.md) list (FenlightAM and Umbrella), it is a external scraper module used to resolve torrent links for play in said addons
 
