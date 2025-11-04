@@ -26,9 +26,8 @@ Example Installation Instructions
 > - [ ] This is a P2P add-on, if you use it, you may want to use a VPN
 
 > [!NOTE]
-> Extra
-
+> Extra information for the specific addon like extra setup for the addon to work or information for setting up a watchlist provider
 
 > [!TIP]
-> Installation:
+> Specific settings in the addon to make it easier to use or function better like autoplay or specific sources to use for better torrent coverage
 
