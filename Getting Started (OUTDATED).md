@@ -51,6 +51,8 @@ Addons have the same access to your system as Kodi, and can therefore be used to
 
 ## Installing builds
 
+TLDR: STAY AWAY FROM BUILDS THEY ARE JUST BLOATWARE TRASH. INSTALL YOUR ADDONS SEPERATELY, OPTIONALLY ADD A SKIN IF YOU WANT IT TO LOOK NICE, AND IF YOU WANT TO GET MORE ADVANCED THEN DO SOME RESEARCH ON WIDGETS TO ADD CUSTOM SHORTCUTS TO YOUR KODI HOMEPAGE.
+
 Many factors can lead to degraded Kodi performance, including installing far too many addons and making graphical modifications to the Kodi interface. Unfortunately, this is also what makes many builds appealing. Some build makers also modify addon code that could result in addons breaking unnecessarily.
 
 Some “builds” are known to disguise their code making it more difficult to determine what the code is really doing. This has lead to allegations of system hijacking and issues such as theft of personal information and using your device to hack or spam people. Privacy issues have also been raised with some builds including certain “phone home” functionality that communicates secretly in the background with the “build” creator’s servers.
