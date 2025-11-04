@@ -208,7 +208,7 @@ THIS ADD-ON IS OUTDATED AND NOT ACTIVELY MAINTAINED, WHEN KODI 22 COMES OUT IT W
 > From the Nixgates Repo install context menu addons. This will give you many more options when you pull up context menu on Seren Items.
 
 ## Umbrella
-This addon started as a Venom fork that specializes in cached torrents, Easynews(web) account access, and also can use Orion scrapers & CocoScrapers.
+This addon started as a Venom fork that specializes in cached torrents, Easynews(web) account access, and also can use Magneto Module & CocoScrapers.
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
