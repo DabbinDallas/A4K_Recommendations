@@ -56,7 +56,7 @@ A fork of Quasar, Elementum uses a new torrent engine with extra features such a
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select plugin.video.elementum add-on
 
-## FEN Light AM
+## Fenlight AM
 This is an add-on that specialises in Furk and Easynews(web) account access but offers external providers if you would like regular hosters as well.
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
