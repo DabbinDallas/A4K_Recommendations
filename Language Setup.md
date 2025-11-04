@@ -1,6 +1,5 @@
 # How to get video files to play as English everytime ###
 #
-#
 > [!IMPORTANT]
 > Follow the steps below
 > 1. On the homepage of Kodi go to the Settings (⚙️)
