@@ -6,7 +6,7 @@
 > - Requires watchlist providers (eg. MyAnimeList, Anilist, Kitsu)
 #
 > [!IMPORTANT]
-> Installation:
+> ## Installation:
 > 1. Open up Kodi Settings ( ⚙️ )
 > <img width="1280" height="720" alt="kodi_TffaU8Tscj" src="https://github.com/user-attachments/assets/d80ad7f1-20c0-4c6d-aae0-356e8b02af3d" />
 > 2. Go to the Kodi file manager
@@ -38,7 +38,7 @@
 #
 #
 > [!NOTE]
-> Watchlist Provider Setup (This guide will use MAL as the example):
+> ## Watchlist Provider Setup (This guide will use MAL as the example):
 > 1. Go to Otaku Tools
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d7ef7917-724e-4ad3-897e-954c1d2b578a" />
 > 2. Open Settings Menu     
@@ -69,7 +69,7 @@
 #
 #
 > [!CAUTION]
-> Without a Debrid service you will only get links from websites instead of torrents so the quality will be way lower, subtitles will be very minimal and you might have issues when a specific websites proxy isnt working so its highly recommended to use a Debrid service (The Debrid service that is recommended the most and highly regarded for the amount of content is Real-Debrid so ill be attaching a guide for setting it up here)
+> ## Without a Debrid service you will only get links from websites instead of torrents so the quality will be way lower, subtitles will be very minimal and you might have issues when a specific websites proxy isnt working so its highly recommended to use a Debrid service (The Debrid service that is recommended the most and highly regarded for the amount of content is Real-Debrid so ill be attaching a guide for setting it up here)
 > 1. Go to Otaku Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5e40fb8d-581b-45fe-8b50-9dc9184371af" />
 > 2. Open Settings Menu
