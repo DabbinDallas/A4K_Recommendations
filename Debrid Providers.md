@@ -72,8 +72,25 @@
 #
 ## Umbrella
 1. Go to Umbrella Tools
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/046494b1-91bf-405e-a9bf-612ec176b38c" />
 2. Click on Settings:Accounts
-3. 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c401e609-0a63-4a5a-afeb-ad0c462b548b" />
+3. Scroll down to the debrid service you're trying to activate and click Authorization (THIS IS WHERE THE INSTRUCTIONS ARE GOING TO CHANGE DEPENDING ON THE DEBRID PROVIDER YOURE TRYING TO SETUP)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/60d2beab-7f90-4203-9a19-74ba737bef43" />
+4. Follow the on-screen instructions (For Real-Debrid we'll be copy and pasting the link on the first line of the box that comes up)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4a95b498-772c-467d-bfc4-bb3cc3da429d" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ff8ebf7a-c44a-4e5d-8eaf-4f112b6b1cb4" />
+5. Enter the code shown in line 2 of the box thats shown in Kodi and click continue
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d723e59e-ea94-45f0-8153-7fa5f9eb3867" />
+6. Login to your debrid account
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/129b2a7e-803f-4863-824a-bd4497c9039d" />
+7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce8ebc2c-fa75-41a7-a79d-5fb5dd94a95b" />
+8. Once you get to this page, go back into Kodi and you should be good to go
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7b4bbe45-b6ad-43ab-8552-d53100b68571" />
+
+
+ 
 
 
  
