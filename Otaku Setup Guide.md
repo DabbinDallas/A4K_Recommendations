@@ -64,6 +64,34 @@
 > 11. Once the link has been copied and pasted into the Auth Url box then you click on authorize to complete the setup
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/99c2140c-00a6-4ae7-a8ea-54c22958cdf9" />
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ec8625c-711e-4fed-9020-368277f66212" />
+#
+#
+#
+> [!CAUTION]
+> Without a Debrid service you will only get links from websites instead of torrents so the quality will be way lower, subtitles will be very minimal and you might have issues when a specific websites proxy isnt working so its highly recommended to use a Debrid service (The Debrid service that is recommended the most and highly regarded for the amount of content is Real-Debrid so ill be attaching a guide for setting it up here)
+> 1. Go to Otaku Tools
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5e40fb8d-581b-45fe-8b50-9dc9184371af" />
+> 2. Open Settings Menu
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/843071f3-6490-494f-84f7-ad1ccc6ea06d" />
+> 3. On the left side scroll down to Accounts
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5ad77c64-c89f-474f-a7e1-c59c0f45a66a" />
+> 4. Enable your Real-Debrid
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d57b504e-21f0-4210-960a-ea3feae5601d" />
+> 5. Click on Authorize Real-Debrid...
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c2d8eb66-9f4d-40d7-ba16-45d717287f18" />
+> 6. Follow the on-screen instructions (we'll be copy and pasting the link shown in the first line of the box in the picture below) 
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e846bb87-dd32-4d00-bc03-022936ae120c" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/af6a361a-9b53-472a-9c28-727441443dce" />
+> 7. Enter the code shown in line 2 of the box thats shown in Kodi and click continue
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/465cb9ca-aac9-433e-abe5-abab4784d3e8" />
+> 8. Login to your debrid account
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/39c73a6f-495d-44d8-b040-58b20179f3eb" />
+> 9. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/349ca821-7f80-4512-b0fc-d78721a7a386" />
+> 10. Once you get to this page, go back into Kodi and you should see a confirmation window in Kodi where all you have to do is click OK and you're good to go
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/adccbac4-f07d-4f29-ab49-27ac721536ee" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6d07dca6-95b3-493a-bcc3-97ff1c8f4587" />
+
 
 
 
