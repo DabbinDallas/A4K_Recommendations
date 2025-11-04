@@ -26,7 +26,7 @@ Example Installation Instructions
 > 9. Go into the "Video add-ons" section in the repo, and select [Add-on Name].zip
 
 > [!NOTE]
-> Extra information for the specific addon like extra setup for the addon to work like extra addons or providers or information for setting up a watchlist provider
+> Extra information for the specific addon like extra setup for the addon to work like extra addons/providers or information for setting up a watchlist provider
 
 > [!TIP]
 > Specific settings in the addon to make it easier to use or function better like autoplay or specific sources to use for better torrent coverage
