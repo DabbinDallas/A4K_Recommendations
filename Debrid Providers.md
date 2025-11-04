@@ -19,11 +19,36 @@
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ded56919-3115-436f-982b-f6c18cf9b59a" />
 6. Login to your Debrid Account on this page
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/82e56223-9dbc-4508-a852-66c3195d9f42" />
-7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future
+7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7ae0b138-6ba8-428f-8b8a-da3f6b8dcab6" />
 8. Once you get to this page, go back into Kodi and you should see a window that pops up confirming the account link and after pressing OK you should be done
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3d5ed415-f63f-412f-b4cb-6a1b43884bca" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/371d9159-2206-4e84-87f2-5e1bea5bff43" />
+
+#
+## Otaku/Otaku Testing
+1. Go to Otaku Tools
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5e40fb8d-581b-45fe-8b50-9dc9184371af" />
+2. Open Settings Menu
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/843071f3-6490-494f-84f7-ad1ccc6ea06d" />
+3. On the left side scroll down to Accounts
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5ad77c64-c89f-474f-a7e1-c59c0f45a66a" />
+4. Enable your Debrid Account (THIS IS WHERE THE INSTRUCTIONS ARE GOING TO CHANGE DEPENDING ON THE DEBRID PROVIDER YOURE TRYING TO SETUP)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d57b504e-21f0-4210-960a-ea3feae5601d" />
+5. Click on Authorize Real-Debrid...
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c2d8eb66-9f4d-40d7-ba16-45d717287f18" />
+6. Follow the on-screen instructions (for real-debrid we'll be copy and pasting the link shown in the first line of the box in the picture below) 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e846bb87-dd32-4d00-bc03-022936ae120c" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/af6a361a-9b53-472a-9c28-727441443dce" />
+7. Enter the code shown in line 2 of the box thats shown in Kodi and click continue
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/465cb9ca-aac9-433e-abe5-abab4784d3e8" />
+8. Login to your debrid account
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/39c73a6f-495d-44d8-b040-58b20179f3eb" />
+9. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/349ca821-7f80-4512-b0fc-d78721a7a386" />
+10. Once you get to this page, go back into Kodi and you should see a confirmation window in Kodi where all you have to do is click OK and you're good to go
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/adccbac4-f07d-4f29-ab49-27ac721536ee" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6d07dca6-95b3-493a-bcc3-97ff1c8f4587" />
 
 #
 ## POV
@@ -39,15 +64,16 @@
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/627fd8c3-4ffb-4a09-b1a6-b983fb743b8d" />
 5. Login to your debrid account
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d8622e81-8afe-4ea0-a923-003b2eb2181f" />
-6. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future
+6. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1f348c12-a9d5-4cb5-92b3-dfdbe66b7172" />
 7. Once you get to this page, go back into Kodi and you should be good to go
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dd15350b-220c-433c-953d-e6ce8a2071b0" />
 
-
-
-  
-
+#
+## Umbrella
+1. Go to Umbrella Tools
+2. Click on Settings:Accounts
+3. 
 
 
  
