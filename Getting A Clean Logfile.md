@@ -31,6 +31,7 @@
 > 3. After you've recreated the error, back all the way out to the kodi homepage
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a0035ad4-46d8-4109-b919-b98648029592" />
 > 4. Next we'll be opening the Kodi Logfile Uploader, ill streamline the instructions to get to it here to make sure anyone can get to the addon
+>
 > 5. Go into the Kodi Settings ( ⚙️ )
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5b7517e0-0cff-4ae6-a399-a654b3ab59de" />
 > 6. Click on Add-ons
@@ -45,5 +46,5 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/90ba3591-ff2a-44f0-b283-a649f2c809e0" />
 > 11. In the box that pops up click on upload
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/406e6b16-3bdf-4196-bcf3-e3789782a1aa" />
-> 12. Either scan the QR code and then copy and paste the link into your post OR Copy and Paste the link on the last line of that box into your Reddit Post
+> 12. Either scan the QR code and then copy and paste the link that it opens on your phones browser into your post OR Copy and Paste the link on the last line of that box into your Reddit Post
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/30955662-ef02-496f-bfd3-9af71ee60d8d" />
