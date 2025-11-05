@@ -15,18 +15,19 @@
 > <img width="1280" height="720" alt="kodi_upVZrtJg4w" src="https://github.com/user-attachments/assets/2e89bddf-2f70-4be4-9dc0-2c1e316b18a2" />
 > 4. Click on Enter Path...
 > <img width="1280" height="720" alt="kodi_iduXA69X0N" src="https://github.com/user-attachments/assets/50d789aa-d2d7-4eae-b4e2-515ee864d7ab" />
-> 5. Enter the path for Otaku https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName]) and click OK
+> 5. Enter the path for Otaku: https://goldenfreddy0703.github.io/repository.otaku (Give it a name [SourceName]) and click OK
 > <img width="1280" height="720" alt="kodi_mRtQqPpGNC" src="https://github.com/user-attachments/assets/43e2fd03-51f4-45e9-9a3f-9c362475103d" />
-> 5.1. OR enter the path for Otaku Testing https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName]) and click OK
+> 5.1. OR enter the path for Otaku Testing: https://goldenfreddy0703.github.io/repository.otaku.testing (Give it a name [SourceName]) and click OK
 > <img width="1280" height="720" alt="kodi_h3wSdrCb6N" src="https://github.com/user-attachments/assets/9e89375e-92da-4554-9559-67fdfbd4cb3d" />
-> 6. Go to "Add-ons"
+> 6. Go back to "Add-ons"
 > <img width="1280" height="720" alt="kodi_CGndoHAMpF" src="https://github.com/user-attachments/assets/e654e3e3-fa80-432c-a2ad-dff23756dc13" />
 > 7. In Add-ons, select Install from zip file
 > <img width="1280" height="720" alt="kodi_LaJh86R3B3" src="https://github.com/user-attachments/assets/a34df33a-02a3-4b2a-902c-1c39c958b2b6" />
-> 8. When asked for the location, select [SourceName], and install repository.otaku-*.zip
+> 8. When asked for the location, select [SourceName]
 > <img width="1280" height="720" alt="kodi_5BqQNODAc7" src="https://github.com/user-attachments/assets/24b295b5-8c44-4835-8fe0-2f64e8d0b3fb" />
+> 9. Install repository.otaku-*.zip
 > <img width="1280" height="720" alt="kodi_Viw0XPrN45" src="https://github.com/user-attachments/assets/a746992f-1257-4ed0-a1f5-85e10d2ba31b" />
-> 9. Go back to Add-ons, but this time, select "Install from repository"
+> 9. Go back to Add-on Browser, but this time, select "Install from repository"
 > <img width="1280" height="720" alt="kodi_H6kZgFQfFp" src="https://github.com/user-attachments/assets/f81d0df0-35c1-42de-a76c-e01d3c1457b4" />
 > 10. Select the [Repository Name]
 > <img width="1280" height="720" alt="kodi_RAbpFMq76w" src="https://github.com/user-attachments/assets/892b7e30-bb8f-4797-a6ea-4ba3eda608d5" />
