@@ -24,11 +24,11 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c920f458-307b-4d12-b6fa-0d30c3b2ba58" />
 > 9. Select repository.kodifitzwell-*.zip
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/54563802-ee90-4791-acab-3fbd58c7bd7a" />
-> 10. Go back to Add-ons install, but this time, select Install from repository
+> 10. Go back to Add-on browser, but this time, select Install from repository
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8165b2a9-3ed3-472d-8979-bc7ac900f932" />
 > 11. Select the [Repository Name]
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4bb4b4ba-6dca-48ff-b146-afb8a4042636" />
-> 12. Go into the "Video add-ons" section in the repo
+> 12. Go into the Video add-ons section in the repo
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ba3e1c58-ed02-4cc9-8f92-cb51a9cbc49a" />
 > 13. Click on POV
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/93ffe826-8fa7-4648-bb1c-f6000a61c391" />
