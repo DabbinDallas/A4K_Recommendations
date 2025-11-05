@@ -8,7 +8,7 @@
 > [!IMPORTANT]
 > ## Installation:
 > 1. Open up Kodi Settings ( ⚙️ )
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/423ea1f0-8cd9-4e3b-a816-74ab2b7f1c28" />
+> <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/423ea1f0-8cd9-4e3b-a816-74ab2b7f1c28" />
 > 2. Go to the Kodi file manager
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c6320e91-3c14-486c-8486-43da40927d97" />
 > 3. Click on "Add source"
