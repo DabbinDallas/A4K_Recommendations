@@ -3,7 +3,7 @@
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
-> - Recommended to use a Watchlist Provider as well to keep track of what you watch and sync across devices (Trakt has the most features but TMDB lists kinda work as well) 
+> - Requires a Watchlist Provider to keep track on your watch history across devices and access categories for streaming service-like browsing (Popular, Trending, Genres)
 #
 > [!IMPORTANT]
 > ## Installation:
