@@ -3,7 +3,7 @@
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
-> - Requires a Watchlist Provider to keep track on your watch history across devices and access categories for streaming service-like browsing (Popular, Trending, Genres)
+> - Requires a Watchlist Provider to keep track of your watch history across devices and access categories for streaming service-like browsing (Popular, Trending, Genres)
 #
 > [!IMPORTANT]
 > ## Installation:
