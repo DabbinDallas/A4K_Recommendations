@@ -20,11 +20,11 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8e9caa51-62fb-49ce-b57f-5626b4bb655c" />
 > 7. In Add-ons, select Install from zip file
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5ae92111-6377-497e-bb78-1e8504c493ad" />
-> 8. When asked for the location, select [SourceName] and install repository.kodifitzwell-*.zip
+> 8. When asked for the location, select [SourceName]
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c920f458-307b-4d12-b6fa-0d30c3b2ba58" />
-> 9. Install repository.kodifitzwell-*.zip
+> 9. Select repository.kodifitzwell-*.zip
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/54563802-ee90-4791-acab-3fbd58c7bd7a" />
-> 10. Go back to Add-ons install, but this time, select "Install from repository"
+> 10. Go back to Add-ons install, but this time, select Install from repository
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8165b2a9-3ed3-472d-8979-bc7ac900f932" />
 > 11. Select the [Repository Name]
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4bb4b4ba-6dca-48ff-b146-afb8a4042636" />
