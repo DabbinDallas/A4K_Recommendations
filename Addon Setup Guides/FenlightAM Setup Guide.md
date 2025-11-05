@@ -88,7 +88,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/50ffed86-310b-4bcf-9a04-57cfde3d00cd" />
 > 8. When prompted on the next page, click Yes
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/68faeac1-9896-48ac-918f-8b207a57a85a" />
-> 9. Back in Kodi you should see a popup that confirms that Trakt was linked successfully and youll see your username underneath the Trakt header. This means youre all good to go
+> 9. Back in Kodi you should see a popup that confirms that Trakt was linked successfully and youll see your username underneath the Trakt header. This means youre all good to go.
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4f4e2f60-45fe-4b21-8a00-1ba20f93a8f0" />
 
 
