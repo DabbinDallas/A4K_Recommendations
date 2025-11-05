@@ -25,15 +25,17 @@
 > <img width="1280" height="720" alt="kodi_LaJh86R3B3" src="https://github.com/user-attachments/assets/a34df33a-02a3-4b2a-902c-1c39c958b2b6" />
 > 8. When asked for the location, select [SourceName]
 > <img width="1280" height="720" alt="kodi_5BqQNODAc7" src="https://github.com/user-attachments/assets/24b295b5-8c44-4835-8fe0-2f64e8d0b3fb" />
-> 9. Install repository.otaku-*.zip
+> 9. Install repository.otaku-*.zip / repository.otaku.testing-*.zip
 > <img width="1280" height="720" alt="kodi_Viw0XPrN45" src="https://github.com/user-attachments/assets/a746992f-1257-4ed0-a1f5-85e10d2ba31b" />
-> 9. Go back to Add-on Browser, but this time, select "Install from repository"
+> 10. Go back to Add-on browser, but this time, select Install from repository
 > <img width="1280" height="720" alt="kodi_H6kZgFQfFp" src="https://github.com/user-attachments/assets/f81d0df0-35c1-42de-a76c-e01d3c1457b4" />
-> 10. Select the [Repository Name]
+> 11. Select the [Repository Name]
 > <img width="1280" height="720" alt="kodi_RAbpFMq76w" src="https://github.com/user-attachments/assets/892b7e30-bb8f-4797-a6ea-4ba3eda608d5" />
-> 11. Go into the "Video add-ons" section in the repo, select Otaku/Otaku Testing add-on and click on Install
+> 12. Go into the Video add-ons section in the repo
 > <img width="1280" height="720" alt="kodi_dMRKgoPkq2" src="https://github.com/user-attachments/assets/be9d6706-7bbc-4ba6-adec-7ce42cc04336" />
+> 13. Click on Otaku/Otaku Testing
 > <img width="1280" height="720" alt="kodi_FsB9AYJWnC" src="https://github.com/user-attachments/assets/a9f7556b-628b-4554-87df-b8399109aa73" />
+> 14. Install Otaku/Otaku Testing
 > <img width="1280" height="720" alt="kodi_5s3ITqMyIw" src="https://github.com/user-attachments/assets/f70cf457-42e4-4a26-a06b-4408b03d5b8e" />
 #
 #
