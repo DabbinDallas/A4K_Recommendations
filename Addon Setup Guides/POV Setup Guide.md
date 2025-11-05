@@ -38,6 +38,33 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/58c194cd-c1f0-4ef0-90ed-9f182ff29d32" />
 > (OPTIONAL: Install Magneto module if you read the other optional quote during the last step and it pertains to you)
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0d6f4828-42a8-4d3b-991c-429e5259ac8f" />
+#
+#
+#
+> [!NOTE]
+> ## Watchlist Provider Setup (This guide will use Trakt as the example):
+> 1. Go to POV Settings
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8eb74c7f-1f67-4a83-97e0-a4b3220c49a6" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a44360e9-0ebd-4a70-9dac-e23ddd330a43" />
+> 2. On the left side scroll down to My Lists
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/10de03c4-7abb-4132-9123-16351e1b1a5b" />
+> 3. Under the Trakt header click Authorize
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/693cb239-fdfd-4764-b35b-fe2ea86d1194" />
+> 4. Follow the on screen instructions (We're gonna copy and paste the link in the Location section on the buttom of this screen for better pictures)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/058b40c2-a978-4ae8-a565-736d01a666c9" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f7413028-4e29-443f-a422-648b21df1154" />
+> 5. Sign in on this page or Join now if you havent created an account and make your way back to the page that was linked in the above picture (https://trakt.tv/activate)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/16227494-c758-4158-a101-09732ea43e22" />
+> 6. Enter the pin code displayed on the popup window in Kodi
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cd3ac343-6e96-4a4e-b87e-c61d3029a122" />
+> 7. When prompted on the next page, click Yes
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6570c63d-1bf7-4889-985c-0e081bacb958" />
+> 8. Back in Kodi you should see a popup that confirms that Trakt was linked successfully. This means you are all good to go.
+
+
+
+
+
 
 
 
