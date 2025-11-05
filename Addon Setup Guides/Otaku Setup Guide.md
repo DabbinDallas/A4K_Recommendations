@@ -25,7 +25,7 @@
 > <img width="1280" height="720" alt="kodi_LaJh86R3B3" src="https://github.com/user-attachments/assets/a34df33a-02a3-4b2a-902c-1c39c958b2b6" />
 > 8. When asked for the location, select [SourceName]
 > <img width="1280" height="720" alt="kodi_5BqQNODAc7" src="https://github.com/user-attachments/assets/24b295b5-8c44-4835-8fe0-2f64e8d0b3fb" />
-> 9. Install repository.otaku-*.zip / repository.otaku.testing-*.zip
+> 9. Select repository.otaku-*.zip / repository.otaku.testing-*.zip
 > <img width="1280" height="720" alt="kodi_Viw0XPrN45" src="https://github.com/user-attachments/assets/a746992f-1257-4ed0-a1f5-85e10d2ba31b" />
 > 10. Go back to Add-on browser, but this time, select Install from repository
 > <img width="1280" height="720" alt="kodi_H6kZgFQfFp" src="https://github.com/user-attachments/assets/f81d0df0-35c1-42de-a76c-e01d3c1457b4" />
