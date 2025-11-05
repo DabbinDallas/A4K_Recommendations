@@ -1,5 +1,5 @@
 # POV
-## POV is an add-on that allows you to stream movies and TV shows from premium sources. Based on Fen, POV is very fast, and it has many of the features from its predecessor. Its also the easiest to setup, having a scraper module built-in which steps a long step that the other popular add-ons require to function.
+## POV is an add-on that allows you to stream movies and TV shows from premium sources. Based on Fen, POV is very fast, and it has many of the features from its predecessor. Its also the easiest to setup, having a scraper module built-in which removes a long step that the other popular add-ons require to function.
 > [!WARNING]
 > - Requires at least one paid premium provider (eg.Real Debrid, Premiumize, All-Debrid, etc.)
 > - Requires a Watchlist Provider to keep track of your watch history across devices and access categories for streaming service-like browsing (Popular, Trending, Genres)
