@@ -1,5 +1,5 @@
 # FenlightAM
-## This is an add-on that specialises in Furk and Easynews(web) account access but offers external providers if you would like regular hosters as well.
+## This is an add-on that specialises in Movies and Tv Shows, it used to specialize in Furk and Easynews(web) account access in the early days but mostly uses external providers to scrape regular hosters nowadays. Its one of the most popular add-ons and is actively maintained by Anonymouse with some extra help from the original Fenlight developer.
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
@@ -82,7 +82,7 @@
 > 5. Follow the on-screen instructions (We'll be copying and pasting the link for better images)
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dd8d9012-4a7f-4249-af86-d03e5fe0a4a1" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4b477b11-d44c-46aa-abf9-e5f601cf3c18" />
-> 6. Sign in on this page or Join now if you havent created an account and make your way back to this page
+> 6. Sign in on this page or Join now if you havent created an account and make your way back to the page that was linked in the above picture (https://trakt.tv/activate)
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3127a0f2-e39e-4f5f-a535-7b588c694ecc" />
 > 7. Enter the code displayed on the popup window in Kodi
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/50ffed86-310b-4bcf-9a04-57cfde3d00cd" />
