@@ -70,7 +70,7 @@
 #
 #
 >[!NOTE]
-> ### Watchlist Provider Setup (We'll be using Trakt as our example)
+> ## Watchlist Provider Setup (We'll be using Trakt as our example)
 > 1. Inside FenlightAM go into Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a4813cb4-9851-4cb9-9918-ef67b6264bf9" />
 > 2. Click on Settings
