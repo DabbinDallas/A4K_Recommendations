@@ -3,7 +3,7 @@
 
 > [!WARNING]
 > - Paid premium providers (eg. Premiumize, Real Debrid, All-Debrid, etc.) provide a way better experience but it can be used without if your ok with low quality website sources with minimal subtitles instead of Bluray/Webrip quality torrents with multi-audio/multi-subs
-> - Requires watchlist providers (eg. MyAnimeList, Anilist, Kitsu)
+> - Requires a Watchlist Provider to keep track of your watch history across devices (eg. MyAnimeList, Anilist, Kitsu)
 #
 > [!IMPORTANT]
 > ## Installation:
