@@ -15,7 +15,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c1372e9f-a580-4e97-93d6-aef8f6adeb0b" />
 > 4. Click on Enter Path...
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b10e6dc2-7b0d-45c1-9372-2a768ff358f3" />
-> 5. Enter the path for the FenlightAM https://fenlightanonymouse.github.io/packages (Give it a name [SourceName]) and click OK
+> 5. Enter the path for FenlightAM https://fenlightanonymouse.github.io/packages (Give it a name [SourceName]) and click OK
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/19512ec5-aa9a-4107-8b00-0b25f1d8db05" />
 > 6. Go to "Add-ons"
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8e9caa51-62fb-49ce-b57f-5626b4bb655c" />
