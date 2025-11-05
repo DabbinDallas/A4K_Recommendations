@@ -45,9 +45,8 @@
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5e9fa7ce-39e5-4827-821e-ba0d728aabe1" />
 > 3. Scroll down to Watchlist on the left side
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9bc96d5f-b8a7-4030-b2ed-1d85353e8d5a" />
-> 4. Turn on Update Watchlist and choose your Watchlist to update
+> 4. Turn on Update Watchlist (When a watchlist has been setup completely itll automatically change which watchlist to update in the option underneath)
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e02d66fd-957d-492a-86a2-ba7c2b7bd1e0" />
-> <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b54de58d-ce14-4518-8776-d6fd16a7dc2f" />
 > 5. Enable your Watchlist provider
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b4994eec-ab11-4e23-823b-7225de7d1962" />
 > 6. Click to authorize
