@@ -29,7 +29,7 @@
 #
 #
 >[!CAUTION]
-> ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for pre-installing one of the external scraper modules for this first step at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md)
+> ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for pre-installing one of the external scraper modules for this next step at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md)
 > ## External Scraper Module Setup:
 > 1. Inside FenlightAM go into Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a4abfcae-34dc-4879-9b9c-c813516a09bb" />
