@@ -19,7 +19,9 @@ Kodi can be installed on many devices - desktops, tablets, phones and a slew of 
 
 Deciding which device is best for you is a completely unique experience for every user. The question of which kodi box is the best is asked often but is difficult to answer definitively. This completely depends on what you want from your device. This question about Kodi boxes has been asked and covered extensively on various websites and the reddit posts. Here is a Reddit Post with a relatively updated discussion on [what android boxes people recommend](https://www.reddit.com/r/kodi/comments/1gmi79i/kodi_box_recommendations/) to help you with this decision. But id also highly recommend looking through multiple Google searches or other Reddit posts before making your decision as people have such varying opinions on which box to get, they can get kinda expensive on the higher end, and doing your own research for boxes that contain what you're looking for is usually the best course of action in this regard. 
 
-__You will notice that the response is often the same though. Generally, users will get the following:__
+__You will notice that the response is often the same though. Generally, users will get the following:__  
+
+***THIS SECTION IS UNFINISHED, NEEDS MORE RECOMMENDATIONS, RESEARCH AND SPECS FOR DIFFERENTIATON BETWEEN THE CATEGORIES*** 
 
 - ### Budget options with Google Certification, DV and HD 10, and the ability for ethernet (sometimes requiring a usb to ethernet adapter) that are highly regarded are the Onn 4k Plus ($45), Onn 4k Pro ($30), and the Google Streamer ($75)
 
@@ -39,7 +41,7 @@ If you want to ask this question on either the Kodi Forums or the Official Kodi 
 
 ## Installing addons
 
-There are many different ways to install addons. Users can add the relevant repository, download the individual addon zip file or use a third-party addon installer. In any case, the easiest way to accomplish this is by doing a Google search: Install [Addon Name] Kodi. If you're unsure about which addons you want, or want to know which addons are the most popular, check out the monthly sticky post in this sub in which users offer their suggestions. When installing any addon, it is also recommended to use the official repository for that addon. Some addons are available from multiple repositories but only the official repository for that addon is supported by the developer and will receive timely updates and maintenance. Avoid using mass repositories such as SuperRepo or similar which just host a plethora of addons but offer no maintenance or updates.
+There are many different ways to install addons. Users can add the relevant repository or download the individual addon zip file (Stay away from third party installers for security reasons). In any case, the easiest way to accomplish this is by doing a Google search: Install [Addon Name] Kodi. If you're unsure about which addons you want, or want to know which addons are the most popular, check out the monthly sticky post in this sub in which users offer their suggestions. When installing any addon, it is also recommended to use the official repository for that addon. Some addons are available from multiple repositories but only the official repository for that addon is supported by the developer and will receive timely updates and maintenance. Avoid using mass repositories such as SuperRepo or similar which just host a plethora of addons but offer no maintenance or updates.
 
 Addons have the same access to your system as Kodi, and can therefore be used to perform malicious tasks like steal credit card information and send spam without your knowledge. With this in mind, it is highly recommended that you only install addons from a trusted source and conduct reasonable research into what you are installing.
 
