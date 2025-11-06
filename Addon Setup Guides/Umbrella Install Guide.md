@@ -75,32 +75,31 @@
 > 8. Once you get to this page, go back into Kodi and you should see a window that pops up confirming the account link and after pressing OK you should be done
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9a640414-56cd-4ea0-bbbc-240af7219676" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/586c78b3-412a-47d2-a3f4-588b2b069234" />
-
-
 #
 #
 #
 >[!NOTE]
 > ## Watchlist Provider Setup (We'll be using Trakt as our example)
-> 1. Inside FenlightAM go into Tools
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a4813cb4-9851-4cb9-9918-ef67b6264bf9" />
-> 2. Click on Settings
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1a449138-1a48-42ff-bbce-92be7bf21ef5" />
-> 3. On the left side go down to the Accounts tab
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c2ac3fa-7130-41a4-a9de-d0daba35f151" />
-> 4. Under the Trakt header click on Authorize
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5fbf8767-9964-44a2-9b42-8edef9334731" />
-> 5. Follow the on-screen instructions (We'll be copying and pasting the link for better images)
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dd8d9012-4a7f-4249-af86-d03e5fe0a4a1" />
+> 1. Inside Umbrella go into Tools
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d52e84a-c39b-4c17-94ce-50eaef5c801e" />
+> 2. Click on SETTINGS:Trakt
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/44c5e215-a8ec-4a6b-ac14-5047d30620b3" />
+> 3. Under the Trakt header click on Authorization... 
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a1f551b5-3c6a-48c8-b7e3-728a787937ba" />
+> 4. Follow the on-screen instructions (We'll be copying and pasting the link for better images)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3ab3d434-9ea9-425d-9340-cdbc61545c69" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4b477b11-d44c-46aa-abf9-e5f601cf3c18" />
 > 6. Sign in on this page or Join now if you havent created an account and make your way back to the page that was linked in the above picture (https://trakt.tv/activate)
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3127a0f2-e39e-4f5f-a535-7b588c694ecc" />
 > 7. Enter the code displayed on the popup window in Kodi
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/50ffed86-310b-4bcf-9a04-57cfde3d00cd" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3e312ea6-19ca-4019-ac12-36f3a55b4ebc" />
 > 8. When prompted on the next page, click Yes
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/68faeac1-9896-48ac-918f-8b207a57a85a" />
-> 9. Back in Kodi you should see a popup that confirms that Trakt was linked successfully and youll see your username underneath the Trakt header. This means youre all good to go.
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4f4e2f60-45fe-4b21-8a00-1ba20f93a8f0" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1a87608d-f301-4cf8-babb-9908f8c86953" />
+> 9. Back in Kodi you should see a popup that confirms that Trakt was authorized successfully and window will popup asking if you want to use Trakt for watched and unwatched indicators. Click Yes and you should be all good to go.
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fc52590b-5046-48a0-8598-69119c8034f2" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6f9e91e2-56dc-4233-9beb-84427e48d47f" />
+
+
 
 
 
