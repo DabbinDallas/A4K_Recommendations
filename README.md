@@ -1,4 +1,4 @@
-# Most of this is a W.I.P. and was directly forked from the original A4K Repo so if theres anything you want to add or correct/make easier to follow consider [submitting an issue](https://github.com/DabbinDallas/A4K_Recommendations/issues)
+# Most of this is a W.I.P. and was directly forked from the original A4K Repo so if theres anything you want to add or correct/make easier to follow consider [submitting an issue](https://github.com/DabbinDallas/A4K_Recommendations/issues/new)
 
 ## Making a Recommendation
 If you'd like to make an addon recommendation to add to the recommended addons page then click on this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Make%20Recommendation.md), read through the example format and use as a template when submitting it as an issue in the link at the top of that page
