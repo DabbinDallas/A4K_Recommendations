@@ -8,9 +8,10 @@ If you're looking for the recommended addons curated from the A4K subreddit ([Fe
 
 ## Full Addon Setup Guides
 The Recommended Addons section listed above is a barebones tutorial on how to get addons installed into your Kodi with some extra guidance for setting up certain parts of said addons but i've been slowly working on Full setup guides (with pictures for each step) for the most popular addons that include how to: __Install the addon onto Kodi, Setup External Scraper Modules, Add Watchlist Providers to keep track of your watch history/give more useability to the addons, and most importantly set up Real-Debrid for each addon which is usually required for the addon to function__. So if it you would like a more comprehensive guide to follow along, then you can click on the folder labeled "Addon Setup Guides" in the box at the top of this page and click on "[Addon Name] Setup Guide.md" file or click on the name of the addon you're trying to setup right here: 
-### [FenlightAM](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Addon%20Setup%20Guides/FenlightAM%20Setup%20Guide.md)
-### [Otaku](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Addon%20Setup%20Guides/Otaku%20Setup%20Guide.md)
-### [POV](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Addon%20Setup%20Guides/POV%20Setup%20Guide.md) 
+### [FenlightAM](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/FenlightAM%20Setup%20Guide.md)
+### [Otaku](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/Otaku%20Setup%20Guide.md)
+### [POV](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/POV%20Setup%20Guide.md)
+### [Umbrella](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/Umbrella%20Install%20Guide.md)
 
 ## Debrid Providers
 If you're looking for a way to setup debrid providers in the most common addons then i've written a guide (Including pictures for each step) on how to do that with Real-Debrid as the example. You can access this page by clicking on "Debrid Providers.md" in the box at the top of this page or click on this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Debrid%20Providers.md)
