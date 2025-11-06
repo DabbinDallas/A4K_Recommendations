@@ -1,5 +1,8 @@
 ## In order to provide help on most posts in the A4K Subreddit, it is highly recommended to post a logfile as they usually provide alot of information that otherwise isnt visible and is more descriptive than what individuals can give with simple error message popups. So in this guide we'll walkthrough installing an addon that will allow you to easily copy and paste a logfile to include with your post and setting up a clean logfile for you to post
 #
+> [!CAUTION]
+> ***AFTER FOLLOWING THE [IMPORTANT] SECTION, MAKE SURE YOU DONT SKIP THE [WARNING] SECTION AS THAT INCLUDES THE DEFINITIVE WAY FOR YOU TO GET A CLEAN LOG FOR POSTING***
+#
 #
 > [!IMPORTANT]
 > # Kodi Logfile Uploader Install
@@ -21,7 +24,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8d95dc21-21c3-4d23-8f67-1ca08f15e635" />
 #
 #
-> [!TIP]
+> [!WARNING]
 > # How to get a clean logfile to post
 > 1. Restart Kodi completely before you do anything else
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d9521de0-c3ce-4bee-8244-4a42d5042e60" />
@@ -48,3 +51,6 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/406e6b16-3bdf-4196-bcf3-e3789782a1aa" />
 > 12. Either scan the QR code and then copy and paste the link that it opens on your phones browser into your post OR Copy and Paste the link on the last line of that box into your Reddit Post
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/30955662-ef02-496f-bfd3-9af71ee60d8d" />
+#
+#
+EDITORS NOTE: Inside specific addons there are ways to do the same logfile posting process in their tools/settings menus but i made this comprehensive guide as a catch all so you don't have to scrour these addons for where to find them, thus giving everyone an easy way to access log posting. There is also a specific addon i use daily that doesnt have this function.
