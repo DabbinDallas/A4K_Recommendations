@@ -60,6 +60,8 @@
 > 7. When prompted on the next page, click Yes
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6570c63d-1bf7-4889-985c-0e081bacb958" />
 > 8. Back in Kodi you should see a popup that confirms that Trakt was linked successfully. This means you are all good to go.
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/082e7d1a-481a-4ebe-8d1e-957f4902ea42" />
+
 
 
 
