@@ -11,13 +11,7 @@ There are official Kodi addons (those supported by Team Kodi) and unofficial add
 
 A "repository" is an online sever that developers can upload their addons to from which users can download them. Think a Dropbox or Google Drive account that only one person can upload to but everyone else can download from.
 
-Kodi is an open source media player not a media provider. That means YOU must provide the content through local files, third-party addons or web based servers. Third party addons that "developers" provide to access torrented streaming through __Paid Debrid Providers__ are the most common used for Kodi on the A4K Subreddit but these are not official and there are no guarantees they will work properly on every setup (mostly due to bugs, api problems or user erorrs when setting up the addons). On the flip side, addons that use free providers to source their content (eg. Live TV, Sports, and P2P based Movies and TV addons) are usually short lived, require finicking around with different sources and quality can be iffy at best which is why its highly recommended to either use the Paid Provider Addons (in the case of Movies and TV shows) or Use a separate app like Tivimate with an IPTV subscription (in the case of Live TV and Sports) . With all that being said, Kodi itself is perfectly legal to use because it doesnt actually provide any content by itself rather provides ways to access content in a streamlined process.
-
-The following was also taken directly from the [Kodi website](https://kodi.tv/):
-
-Kodi® (formerly known as XBMC™) is an award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more. Kodi runs on Linux, OS X, Windows, iOS, and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet. Our forums and Wiki are bursting with knowledge and help for the new user right up to the application developer. We also have helpful Facebook, Google+, Twitter and Youtube pages.
-
-The official Kodi version does not contain any content what so ever. This means that you should provide your own content from a local or remote storage location, DVD, Blu-Ray or any other media carrier that you own. Additionally Kodi allows you to install third-party plugins that may provide access to content that is freely available on the official content provider website. The watching or listening of illegal or pirated content which would otherwise need to be paid for is not endorsed or approved by Team Kodi.
+Kodi is an open source media player not a media provider. That means YOU must provide the content through local files, third-party addons or network storage media (Plex, Jellyfin,  etc.). Third party addons that "developers" provide to access torrented streaming through __Paid Debrid Providers__ are the most common used for Kodi on the A4K Subreddit but these are not official and there are no guarantees they will work properly on every setup (mostly due to bugs, api problems or user erorrs when setting up the addons). On the flip side, addons that use free providers to source their content (eg. Live TV, Sports, and P2P based Movies and TV addons) are usually short lived, require finicking around with different sources and quality can be iffy at best which is why its highly recommended to either use the Paid Provider Addons (in the case of Movies and TV shows) or Use a separate app like Tivimate with an IPTV subscription (in the case of Live TV and Sports) . With all that being said, Kodi itself is perfectly legal to use because it doesnt actually provide any content by itself rather provides ways to access content in a streamlined process.
 
 ## Where can I install Kodi?
 
@@ -42,16 +36,6 @@ If you want to ask this question on either the Kodi Forums or the Official Kodi 
 - price range
 - your own technical ability
 - other technical requirements such as 5.1, DTS, DV, HDR 10/10+, Dolby Atmos, DTS-HD, True-HD, Optical Support or CEC
-
-## Addons
-
-As we've said, Kodi is a standalone media player that doesn't offer any content of its own.
-
-There are official Kodi addons (those supported by Team Kodi) and unofficial addons which are supported privately by their developers and user community. "Addons" are small snippets of code that allow Kodi to access online content from a variety of sources. For example, the YouTube Addon gives (gave) Kodi access to YouTube videos. Some addons source content from one site whilst others can source content from multiple sites. These can be downloaded in a zip file but are usually stored on repositories.
-
-A "repository" is an online sever that developers can upload their addons to from which users can download them. Think a Dropbox or Google Drive account that only one person can upload to but everyone else can download from.
-
-A "build" is an installation of Kodi that someone has added repositories and addons to, made some sort of customisation and then shared for other users to download. It gives users a quick setup but is designed around the preferences of the build creator and as such, may not include all the addons each user would like or, as is often the case, the build is bloated with many addons the user neither needs or wants.
 
 ## Installing addons
 
