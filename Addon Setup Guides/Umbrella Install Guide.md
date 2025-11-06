@@ -16,56 +16,67 @@
 > 4. Click on Enter Path...
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b10e6dc2-7b0d-45c1-9372-2a768ff358f3" />
 > 5. Enter the path for Umbrella: https://umbrellaplug.github.io/ (Give it a name [SourceName]) and click OK
->
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/639f6517-1be4-4dae-8577-36c28734e48e" />
 > 6. Go back to "Add-ons"
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8e9caa51-62fb-49ce-b57f-5626b4bb655c" />
 > 7. In Add-ons, select Install from zip file
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5ae92111-6377-497e-bb78-1e8504c493ad" />
 > 8. When asked for the location, select [SourceName]
-> 
-> 9. Select plugin.video.fenlight-*.zip
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1ae8977e-338a-4fb3-a632-1322bdcdd4c3" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4edcdd72-4a6d-4712-bfd2-5a8161319f03" />
+> 9. Select repository.umbrella-*.zip
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/83618cf8-99bb-445e-9877-29b51b7bcb58" />
+> 10. Go back to Add-on browser, but this time, select Install from repository
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8165b2a9-3ed3-472d-8979-bc7ac900f932" />
+> 11. Select the [Repository Name]
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8e398229-b20e-4fb2-83c8-a73f8b6f6836" />
+> 12. Go into the Video add-ons section in the repo
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/505ac1a3-c94f-47f8-aea0-0ce1109e43b8" />
+> 13. Click on Umbrella
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/05bd5dff-fd68-44ba-9117-8ae7ca5043f4" />
+> 14. Install Umbrella
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/243d2f29-693b-4a4d-b603-654115a31d9e" />
 #
 #
 #
 >[!CAUTION]
 > ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for installing one of the external scraper modules at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md)
 > ## External Scraper Module Setup:
-> 1. Inside FenlightAM go into Tools
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a4abfcae-34dc-4879-9b9c-c813516a09bb" />
-> 2. Click on Settings
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6737b220-28d4-48e7-a5dc-3e639fa3332b" />
-> 3. On the left side go down to the Accounts tab
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/09c50b9a-2e9c-4604-952b-6ea7ffc6c1ed" />
-> 4. Enable External Scrapers
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/86a3ac11-c500-4d70-8728-e945c6293d18" />
-> 5. Click on Choose External Scrapers Module
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ba8658d9-026c-41c8-b44c-23dd10dc807e" />
-> 6. Look for the name of your Module and click on it
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fa8cafd6-fdb4-4882-b0a0-e0d2d0aa27d0" />
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/bfc1768d-915a-48de-a37f-5edf479f3c7c" />
-> 8. When done a box will pop up saying "Success [External Scraper Name] set as External Scraper" in which you can click OK and you'll be good to go
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8c93feb2-ab74-4614-b461-0865f50d7a67" />
+> 1. Inside Umbrella go into Tools
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d52e84a-c39b-4c17-94ce-50eaef5c801e" />
+> 2. Click on SETTINGS:Providers
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/48b19de4-0878-465b-b5a8-c2bdaeeded43" />
+> 3. Enable External Scrapers
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c638559-a699-4e60-a637-9f12147de91d" />
+> 4. Click on External Provider:
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7591e4e8-7b95-4f03-abd5-935268e6ad46" />
+> 5. Look for the name of your Module and click on it
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8d59a2d8-5191-4f01-a02d-147376ea8046" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a7b95040-54f2-4e9d-91c1-d5f9f6285fcf" />
+> 6. When done a box will pop up saying "[External Scraper Name] External module set succesfully" and youll be good to go
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/59dcdb6c-29a7-44b2-9273-efd91b8fffc1" />
 >
 > ## Debrid Account Setup (We'll be using Real-Debrid as our example): 
-> 1. Go to Fenlight Tools
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4a415546-3d5b-4a30-af0f-695e5a08d253" />
-> 2. Open the Setting menu
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5c8e6bfb-c2f1-42ee-b877-ee9456bc5c2c" />
-> 3. Scroll down to Accounts on the left side
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1635e838-72a2-4d83-8717-acf5718f984f" />
-> 4. Click Authorize on the Debrid provider you're trying to setup (THIS IS WHERE THE INSTRUCTIONS ARE GOING TO CHANGE DEPENDING ON THE DEBRID PROVIDER YOURE TRYING TO SETUP)
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d4674ebb-b8b5-4cae-aaba-fe8c3d4ba5ff" />
-> 5. Follow the onscreen instructions (we're gonna copy and paste the url in this guide for better images)
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/733ea503-0a42-4c09-b87d-cc33d450b86a" />
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ded56919-3115-436f-982b-f6c18cf9b59a" />
+> 1. Inside Umbrella go into Tools
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d52e84a-c39b-4c17-94ce-50eaef5c801e" />
+> 2. Click on SETTINGS:Accounts
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fa4a2bda-adc1-4ccb-aa45-74dadc4c3099" />
+> 3. Click Authorization on the Debrid provider you're trying to setup (THIS IS WHERE THE INSTRUCTIONS ARE GOING TO CHANGE DEPENDING ON THE DEBRID PROVIDER YOURE TRYING TO SETUP)
+> 
+> - (Optionally) For Real-Debrid you might have to activate the alternate API address before step 3 (pictured below)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/461410d6-00bc-4dd3-902f-87d69d2d7b13" />
+> 4. Follow the onscreen instructions (we're gonna copy and paste the url in this guide for better images)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dd3761dc-1c17-49ce-8fcf-77239d410794" />
+> 6. Enter the code that is displayed on the second line of the box in Kodi and press Continue
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3036de5e-2369-4369-9201-6987e85b77b5" />
 > 6. Login to your Debrid Account on this page
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/82e56223-9dbc-4508-a852-66c3195d9f42" />
 > 7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7ae0b138-6ba8-428f-8b8a-da3f6b8dcab6" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cef01b0c-d155-4be1-9ea0-afc349a98de9" />
 > 8. Once you get to this page, go back into Kodi and you should see a window that pops up confirming the account link and after pressing OK you should be done
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3d5ed415-f63f-412f-b4cb-6a1b43884bca" />
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/371d9159-2206-4e84-87f2-5e1bea5bff43" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9a640414-56cd-4ea0-bbbc-240af7219676" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/586c78b3-412a-47d2-a3f4-588b2b069234" />
+
+
 #
 #
 #
