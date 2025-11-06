@@ -39,7 +39,7 @@
 #
 #
 >[!CAUTION]
-> ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for installing one of the external scraper modules at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md)
+> ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for pre-installing one of the external scraper modules for this next step at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md)
 > ## External Scraper Module Setup:
 > 1. Inside Umbrella go into Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d52e84a-c39b-4c17-94ce-50eaef5c801e" />
