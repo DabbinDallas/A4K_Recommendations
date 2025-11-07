@@ -65,9 +65,10 @@
 > - (Optionally) For Real-Debrid you might have to activate the alternate API address before step 3 (pictured below)
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/461410d6-00bc-4dd3-902f-87d69d2d7b13" />
 > 4. Follow the onscreen instructions (we're gonna copy and paste the url in this guide for better images)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/078d6486-1cf5-4dd0-9b49-a79ce934080c" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dd3761dc-1c17-49ce-8fcf-77239d410794" />
-> 6. Enter the code that is displayed on the second line of the box in Kodi and press Continue
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3036de5e-2369-4369-9201-6987e85b77b5" />
+> 5. Enter the code that is displayed on the second line of the box in Kodi and press Continue
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/31374629-7d55-4d19-9dcd-6c21b00b20de" />
 > 6. Login to your Debrid Account on this page
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/82e56223-9dbc-4508-a852-66c3195d9f42" />
 > 7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
