@@ -73,7 +73,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/82e56223-9dbc-4508-a852-66c3195d9f42" />
 > 7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cef01b0c-d155-4be1-9ea0-afc349a98de9" />
-> 8. Once you get to this page, go back into Kodi and you should see a window that pops up confirming the account link and after pressing OK you should be done
+> 8. Once you get to this page, go back into Kodi and you should see a window that pops up confirming the account link and you should be all good to go
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9a640414-56cd-4ea0-bbbc-240af7219676" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/586c78b3-412a-47d2-a3f4-588b2b069234" />
 #
