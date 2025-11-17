@@ -17,7 +17,7 @@ Kodi is an open source media player not a media provider. That means YOU must pr
 
 Kodi can be installed on many devices - desktops, tablets, phones and a slew of other devices. This is usually more dependent on the operating system of the device than the device itself. To find out which devices and operating systems are compatible, check out https://kodi.tv/.
 
-Deciding which device is best for you is a completely unique experience for every user and is difficult to answer definitively. Assuming you're trying to use a TV for Kodi then most people will recommend AndroidTV boxes plugged in through HDMI. Even if you have a Smart Android-based TV then its highly inadvisable to download Kodi directly on your TV and the reason for this being that TV operating systems will eventually stop receiving updates which puts your security at risk, TVs have very little ram and storage which can make Kodi slow and clunky, and the onboard Wifi/Ethernet can be very slow which might prevent streaming the files to take full advantage of your TV. This question about Kodi boxes has been asked and covered extensively on various websites and reddit posts. Here is a Reddit Post with a relatively updated discussion on [what android boxes people recommend](https://www.reddit.com/r/kodi/comments/1gmi79i/kodi_box_recommendations/) to help you with this decision. But id also highly recommend looking through multiple Google searches, other Reddit posts, or the below list before making your decision as people have such varying opinions on which box to get. They can get kinda expensive on the higher end, and doing your own research for boxes that contain what you're looking for and are able to take full advantage of your video/audio hardware is usually the best course of action in this regard. 
+Deciding which device is best for you is a completely unique experience for every user and is difficult to answer definitively. Assuming you're trying to use a TV for Kodi then most people will recommend AndroidTV boxes plugged in through HDMI. Even if you have an Android-based TV then its highly inadvisable to download Kodi directly on your TV and the reason for this being that TV operating systems will eventually stop receiving updates which puts your security at risk, TVs have very little ram and storage which can make Kodi slow and clunky, and the onboard Wifi/Ethernet can be very slow which might prevent streaming the right files to take full advantage of your TV. This question about Kodi boxes has been asked and covered extensively on various websites and reddit posts. Here is a Reddit Post with a relatively updated discussion on [what android boxes people recommend](https://www.reddit.com/r/kodi/comments/1gmi79i/kodi_box_recommendations/) to help you with this decision. But id also highly recommend looking through multiple Google searches, other Reddit posts, or the below list before making your decision as people have such varying opinions on which box to get. They can get kinda expensive on the higher end, and doing your own research for boxes that contain what you're looking for and are able to take full advantage of your video/audio hardware is usually the best course of action in this regard. 
 
 __Here's a short list that i've compiled by combing through recent posts regarding this topic:__  
 
@@ -33,26 +33,26 @@ __Here's a short list that i've compiled by combing through recent posts regardi
 
 ***PRICES FOR THESE ARE FROM NOVEMBER 2025 SO THEY'RE SUBJECT TO CHANGE***
 #
-If you want to ask about which device you should get/which device people are using then your best bet is on either; the Kodi Forums, the Official Kodi Subreddit, or the Androidtv Subreddit (Just make sure you dont mention third-party/piracy addons in your post as your post has a very high chance of getting deleted). Regarding which device to pick, you need to include some information about the points below so you can get a more customised individual response.
+If you want to ask about which device you should get/which device people are using then your best bet is on either: the Kodi Forums, the Official Kodi Subreddit, or the Androidtv Subreddit (Just make sure you dont mention third-party/piracy addons in your post as your post has a very high chance of getting deleted). Regarding which device to pick, you need to include some information about the points below so you can get a more customised individual response.
 
-- what will you be using this device for in addition to Kodi.
-- price range
-- your own technical ability
-- your tv/monitor display options such as only SDR, Dolby Vision, and/or HDR 10/10+
-- your audio system capabilities such as:
+- What will you be using this device for in addition to Kodi.
+- Price range
+- Your own technical ability
+- Your tv/monitor display options such as only SDR, Dolby Vision, and/or HDR 10/10+
+- Your audio system capabilities such as:
   Stereo, Surround 5.1, Surround 7.1, DTS, DTS-HD, Dolby Atmos, Atmos True-HD
-- and what cables the audio system uses such as:
+- And what cables the audio system uses such as:
   Optical/TOSLINK or HDMI PASSTHROUGH
 
 ## Installing addons
 
-There are many different ways to install addons. Users can add the relevant repository or download the individual addon zip file (Stay away from third party installers for security reasons). In any case, the easiest way to accomplish this is by doing a Google search: Install [Addon Name] Kodi and looking for a link from the official Kodi Wiki for Kodi-endorsed addons, for third-party addons you can look for links from Troypoint, or you can check out this repository's [Recommended Addons](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Recommended%20Add-ons.md) or [Full Addon Setup Guides](https://github.com/DabbinDallas/A4K_Recommendations/tree/main/Full%20Addon%20Setup%20Guides) for the most popular addons in the A4K subreddit. When installing any addon, it is also recommended to use the official repository for that addon. Some addons are available from multiple repositories but only the official repository for that addon is supported by the developer and will receive timely updates and maintenance. Avoid using mass repositories such as SuperRepo or similar which just host a plethora of addons but offer no maintenance or updates.
+There are many different ways to install addons. Users can add the relevant repository or download the individual addon zip file (Stay away from third party installers for security reasons). In any case, the easiest way to accomplish this is by doing a Google search: Install [Addon Name] Kodi and looking for a link from the official Kodi Wiki for Kodi-endorsed addons. For third-party addons you can do the same Google search and look for links from Troypoint OR you can check out this repository's [Recommended Addons](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Recommended%20Add-ons.md) or [Full Addon Setup Guides](https://github.com/DabbinDallas/A4K_Recommendations/tree/main/Full%20Addon%20Setup%20Guides) for the most popular addons in the A4K subreddit. When installing any addon, it is also recommended to use the official repository for that addon. Some addons are available from multiple repositories but only the official repository for that addon is supported by the developer and will receive timely updates and maintenance. Avoid using mass repositories such as SuperRepo or similar which just host a plethora of addons but offer no maintenance or updates.
 
 Addons have the same access to your system as Kodi, and can therefore be used to perform malicious tasks like steal credit card information and send spam without your knowledge. With this in mind, it is highly recommended that you only install addons from a trusted source and conduct reasonable research into what you are installing.
 
 ## Installing builds
 
-***TLDR: STAY AWAY FROM BUILDS THEY ARE JUST BLOATWARE TRASH. INSTALL YOUR ADDONS SEPERATELY, OPTIONALLY ADD A SKIN IF YOU WANT IT TO LOOK NICE, AND IF YOU WANT TO GET MORE ADVANCED THEN DO SOME RESEARCH ON WIDGETS TO ADD CUSTOM SHORTCUTS TO YOUR KODI HOMEPAGE.***
+***TLDR: STAY AWAY FROM BUILDS THEY ARE JUST BLOATWARE TRASH AND A SECURITY RISK. INSTALL YOUR ADDONS SEPERATELY, OPTIONALLY ADD A SKIN IF YOU WANT IT TO LOOK NICE, AND IF YOU WANT TO GET MORE ADVANCED THEN DO SOME RESEARCH ON WIDGETS TO ADD CUSTOM SHORTCUTS TO YOUR KODI HOMEPAGE.***
 
 Many factors can lead to degraded Kodi performance, including installing far too many addons and making graphical modifications to the Kodi interface. Unfortunately, this is also what makes many builds appealing. Some build makers also modify addon code that could result in addons breaking unnecessarily.
 
@@ -74,7 +74,7 @@ In terms of pirating content (that is effectively what you're doing by using pir
 
 The addons you'll see in the full addon setup guides part of this repository are commonly recommended because they function using a paid debrid service which acts a middleman to provide your content and when doing so they send the content through HTTPS encryption which makes it impossible for your ISP (Internet Service Provider) to see the actual files youre recieving, in other words they are completely safe to use without any extra precautions. 
 
-In the recommended addons section of this repository there are specific addons that provide p2p torrenting, live tv, and live sports. These addons all require you to use a VPN instead of a debrid service to make sure that you're ISP can't see what you're watching. They are all clearly labeled in the ***YELLOW WARNING*** area right under the addon description so make sure you're always reading that section when deciding on an add-on to use. If you do not have a VPN or are not sure you've correctly set up your VPN for the device you're using Kodi on, take the safe option and avoid it.
+In the recommended addons section of this repository there are specific addons that provide p2p torrenting, live tv, and live sports. These addons all require you to use a VPN instead of a debrid service to make sure that you're ISP can't see what you're watching. They are all clearly labeled in the ***YELLOW WARNING*** area right under the addon description so make sure you're always reading that section when deciding on an add-on to use. If you do not have a VPN, are not sure you've correctly set up your VPN for the device you're using Kodi on, or are just paranoid about torrenting/pirating live TV/Sports...then take the safe option and avoid those addons and just use the addons that require a debrid service or pay for an iptv for live content.
 
 ## Maintenance
 
