@@ -74,9 +74,9 @@ In the recommended addons section of this repository there are specific addons t
 
 ## Maintenance
 
-***While these addons are great and can be used to help with performance, it's highly recommended to NOT set the addons to continously delete caches and databases on startup as this will actually slow down Kodi, which is usually the opposite effect of what most people are trying to achieve***
-
 There are various maintenance addons that may improve some aspects of your Kodi experience. These could focus on improving your streaming performance, clearing disk space to improve device performance or other system tweaks that cater for unique tastes. You may want to conduct a Google search to find out which addons are currently servicing users as these addons will change from time to time.
+
+***While these addons are great and can be used to help with performance, it's highly recommended to NOT set the addons to continously delete caches and databases on startup as this will actually slow down Kodi, which is usually the opposite effect of what most people are trying to achieve***
 
 ## Common Questions/Issues
 
