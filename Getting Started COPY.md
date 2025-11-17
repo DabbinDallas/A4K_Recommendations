@@ -47,7 +47,7 @@ Addons have the same access to your system as Kodi, and can therefore be used to
 
 ## Installing builds
 
-TLDR: STAY AWAY FROM BUILDS THEY ARE JUST BLOATWARE TRASH. INSTALL YOUR ADDONS SEPERATELY, OPTIONALLY ADD A SKIN IF YOU WANT IT TO LOOK NICE, AND IF YOU WANT TO GET MORE ADVANCED THEN DO SOME RESEARCH ON WIDGETS TO ADD CUSTOM SHORTCUTS TO YOUR KODI HOMEPAGE.
+***TLDR: STAY AWAY FROM BUILDS THEY ARE JUST BLOATWARE TRASH. INSTALL YOUR ADDONS SEPERATELY, OPTIONALLY ADD A SKIN IF YOU WANT IT TO LOOK NICE, AND IF YOU WANT TO GET MORE ADVANCED THEN DO SOME RESEARCH ON WIDGETS TO ADD CUSTOM SHORTCUTS TO YOUR KODI HOMEPAGE.***
 
 Many factors can lead to degraded Kodi performance, including installing far too many addons and making graphical modifications to the Kodi interface. Unfortunately, this is also what makes many builds appealing. Some build makers also modify addon code that could result in addons breaking unnecessarily.
 
@@ -67,13 +67,13 @@ Most users (myself included) are aware of this and are content with milking the 
 
 In terms of pirating content (that is effectively what you're doing by using piracy addons), most streaming addons connect to web servers that already host this content and only act as a portal of access to the user. Think accessing YouTube from the YouTube app as opposed to through the YouTube website. Some addons however use torrents and p2p streaming to access and share their content. This is where issues arise.
 
-The addons you'll see in the full addon setup guides part of this repository are commonly recommended because they function using a paid debrid service which acts a middleman to provide your content and when doing so they send the content through HTTPS encryption which makes it impossible for your ISP (Internet Service Provider) to see the actual files youre recieving, in other words they are completely safe to use. 
+The addons you'll see in the full addon setup guides part of this repository are commonly recommended because they function using a paid debrid service which acts a middleman to provide your content and when doing so they send the content through HTTPS encryption which makes it impossible for your ISP (Internet Service Provider) to see the actual files youre recieving, in other words they are completely safe to use without any extra precautions. 
 
-In the recommended addons section of this repository there are other addons that provide p2p torrenting, live tv, and live sports. These addons all require you to use a VPN instead of a debrid service to make sure that you're ISP can't see what you're watching. They are all clearly labeled in the ***YELLOW WARNING*** area right under the addon description so make sure you're always reading that section when deciding on an add-on to use. If you do not have a VPN or are not sure you've correctly set up your VPN for the device you're using Kodi on, take the safe option and avoid it.
-
-Most of the addons you'll see recommended in the monthly sticky post and suggested by users are the former, safer method. Usually if an addon uses torrents or p2p, it will be clearly labeled and sufficient warning is given. If you are unsure how an addon is accessing content, take the safe option and avoid it unless you have put in place safety measures. These could include subscribing to a VPN service, using a proxy or avoiding the content altogether.
+In the recommended addons section of this repository there are specific addons that provide p2p torrenting, live tv, and live sports. These addons all require you to use a VPN instead of a debrid service to make sure that you're ISP can't see what you're watching. They are all clearly labeled in the ***YELLOW WARNING*** area right under the addon description so make sure you're always reading that section when deciding on an add-on to use. If you do not have a VPN or are not sure you've correctly set up your VPN for the device you're using Kodi on, take the safe option and avoid it.
 
 ## Maintenance
+
+***While these addons are great and can be used to help with performance, it's highly recommended to NOT set the addons to continously delete caches and databases on startup as this will actually slow down Kodi, which is usually the opposite effect of what most people are trying to achieve***
 
 There are various maintenance addons that may improve some aspects of your Kodi experience. These could focus on improving your streaming performance, clearing disk space to improve device performance or other system tweaks that cater for unique tastes. You may want to conduct a Google search to find out which addons are currently servicing users as these addons will change from time to time.
 
