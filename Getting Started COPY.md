@@ -23,7 +23,7 @@ __You will notice that the response is often the same though. Generally, users w
 
 ***THIS SECTION IS UNFINISHED, NEEDS MORE RECOMMENDATIONS, RESEARCH AND SPECS FOR DIFFERENTIATON BETWEEN THE CATEGORIES*** 
 
-- ### Budget options with Google Certification, DV and HD 10, and the ability for ethernet (sometimes requiring a usb to ethernet adapter) that are highly regarded are the Onn 4k Plus ($45), Onn 4k Pro ($30), and the Google Streamer ($75)
+- ### Budget options with Google Certification, DV and HDR 10, and the ability for WIFI/ethernet (sometimes requiring a usb to ethernet adapter) that are highly regarded are the Onn 4k Plus ($30), Onn 4k Pro ($45), and the Google Streamer ($75)
 
 - ### Mid-Range options (some of them lack google certification so certain regular apps wont work work correctly but they usually have support for Corelec so if Kodi is all you're ruinning on the device it doesnt matter) would be Dune HD R Plus ($150), and the RockTek G2 ($130) 
 
@@ -41,7 +41,7 @@ If you want to ask this question on either the Kodi Forums or the Official Kodi 
 
 ## Installing addons
 
-There are many different ways to install addons. Users can add the relevant repository or download the individual addon zip file (Stay away from third party installers for security reasons). In any case, the easiest way to accomplish this is by doing a Google search: Install [Addon Name] Kodi. If you're unsure about which addons you want, or want to know which addons are the most popular, check out the monthly sticky post in this sub in which users offer their suggestions. When installing any addon, it is also recommended to use the official repository for that addon. Some addons are available from multiple repositories but only the official repository for that addon is supported by the developer and will receive timely updates and maintenance. Avoid using mass repositories such as SuperRepo or similar which just host a plethora of addons but offer no maintenance or updates.
+There are many different ways to install addons. Users can add the relevant repository or download the individual addon zip file (Stay away from third party installers for security reasons). In any case, the easiest way to accomplish this is by doing a Google search: Install [Addon Name] Kodi and looking for a link from the official Kodi Wiki for Kodi-endorsed addons, for third-party addons you can look for links from Troypoint, or you can check out this repository's [Recommended Addons](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Recommended%20Add-ons.md) or [Full Addon Setup Guides](https://github.com/DabbinDallas/A4K_Recommendations/tree/main/Full%20Addon%20Setup%20Guides) for the most popular addons in the A4K subreddit. When installing any addon, it is also recommended to use the official repository for that addon. Some addons are available from multiple repositories but only the official repository for that addon is supported by the developer and will receive timely updates and maintenance. Avoid using mass repositories such as SuperRepo or similar which just host a plethora of addons but offer no maintenance or updates.
 
 Addons have the same access to your system as Kodi, and can therefore be used to perform malicious tasks like steal credit card information and send spam without your knowledge. With this in mind, it is highly recommended that you only install addons from a trusted source and conduct reasonable research into what you are installing.
 
