@@ -17,19 +17,19 @@ Kodi is an open source media player not a media provider. That means YOU must pr
 
 Kodi can be installed on many devices - desktops, tablets, phones and a slew of other devices. This is usually more dependent on the operating system of the device than the device itself. To find out which devices and operating systems are compatible, check out https://kodi.tv/.
 
-Deciding which device is best for you is a completely unique experience for every user. The question of which kodi box is the best is asked often but is difficult to answer definitively. This completely depends on what you want from your device. This question about Kodi boxes has been asked and covered extensively on various websites and the reddit posts. Here is a Reddit Post with a relatively updated discussion on [what android boxes people recommend](https://www.reddit.com/r/kodi/comments/1gmi79i/kodi_box_recommendations/) to help you with this decision. But id also highly recommend looking through multiple Google searches or other Reddit posts before making your decision as people have such varying opinions on which box to get, they can get kinda expensive on the higher end, and doing your own research for boxes that contain what you're looking for is usually the best course of action in this regard. 
+Deciding which device is best for you is a completely unique experience for every user and is difficult to answer definitively. Assuming you're trying to use a TV for Kodi then most people will recommend AndroidTV boxes plugged in through HDMI. Even if you have a Smart Android-based TV then its highly inadvisable to download Kodi directly on your TV and the reason for this being that TV operating systems will eventually stop receiving updates which puts your security at risk, TVs have very little ram and storage which can make Kodi slow and clunky, and the onboard Wifi/Ethernet can be very slow which might prevent streaming the files to take full advantage of your TV. This question about Kodi boxes has been asked and covered extensively on various websites and reddit posts. Here is a Reddit Post with a relatively updated discussion on [what android boxes people recommend](https://www.reddit.com/r/kodi/comments/1gmi79i/kodi_box_recommendations/) to help you with this decision. But id also highly recommend looking through multiple Google searches, other Reddit posts, or the below list before making your decision as people have such varying opinions on which box to get. They can get kinda expensive on the higher end, and doing your own research for boxes that contain what you're looking for and are able to take full advantage of your video/audio hardware is usually the best course of action in this regard. 
 
-__You will notice that the response is often the same though. Generally, users will get the following:__  
+__Here's a short list that i've compiled by combing through recent posts regarding this topic:__  
 
-***THIS SECTION IS UNFINISHED, NEEDS MORE RECOMMENDATIONS, RESEARCH AND SPECS FOR DIFFERENTIATON BETWEEN THE CATEGORIES*** 
-
-- ### Budget options with Google Certification, DV and HDR 10, and the ability for WIFI/ethernet (sometimes requiring a usb to ethernet adapter) that are highly regarded are the Onn 4k Plus ($30), Onn 4k Pro ($45), and the Google Streamer ($75)
+- ### Budget options with Google Certification, Dolby Vkision and HDR 10, and the ability for WIFI/ethernet (sometimes requiring a usb to ethernet adapter) that are highly regarded are the Onn 4k Plus ($30), Onn 4k Pro ($45), and the Google Streamer ($75)
 
 - ### Mid-Range options (some of them lack google certification so certain regular apps wont work work correctly but they usually have support for Corelec so if Kodi is all you're running on the device it doesnt matter) would be Dune HD R Plus ($150), and the RockTek G2 ($130) 
 
-- ### High tier boxes with the most features (Including Dolby Vision FEL 7, Losseless Audio Support like Atmos and True-HD, 1gb Ethernet Jacks, and support for Corelec [Kodi Specific Bootloaders]) are gonna run you a pretty penny but for the enthusiasts that only use these boxes for Kodi and want the best out of their experience, most will say that they're worth the money. These boxes include Nvidia Shield PRO 2019 ($200 although you can get a used one for cheaper they might require repasting the CPU for optimal performance), Ugoos AM6B Plus ($188), Ugoos SK1 ($244)
+- ### High tier boxes with the most features (Including Dolby Vision FEL 7, Losseless Audio Support like Atmos True-HD/DTS-HD, 1gb Ethernet Jacks, and support for Corelec [Kodi Specific Bootloaders]) are gonna run you a pretty penny but for the enthusiasts that only use these boxes for Kodi and want the best out of their experience, most will say that they're worth the money. These boxes include Nvidia Shield PRO 2019 ($200 although you can get a used one for cheaper they might require repasting the CPU for optimal performance), Ugoos AM6B Plus ($188), Ugoos SK1 ($244)
 
 - ### If you don't mind some tinkering or want to experiment a bit, you could try a RaspberryPi. Though after the additional costs are considered, you may find that there are better alternatives for the price. Using this option also means you may have to pick up parts and peripherals such as a remote separately. ###
+
+***THIS SECTION IS UNFINISHED, NEEDS MORE RECOMMENDATIONS, RESEARCH AND SPECS FOR DIFFERENTIATON BETWEEN THE CATEGORIES*** 
 
 ***PRICES FOR THESE ARE FROM NOVEMBER 2025 SO THEY'RE SUBJECT TO CHANGE***
 #
@@ -40,7 +40,7 @@ If you want to ask about which device you should get/which device people are usi
 - your own technical ability
 - your tv/monitor display options such as only SDR, Dolby Vision, and/or HDR 10/10+
 - your audio system capabilities such as:
-  Surround 5.1, 7.1, DTS, DTS-HD, Dolby Atmos, Atmos True-HD
+  Stereo, Surround 5.1, Surround 7.1, DTS, DTS-HD, Dolby Atmos, Atmos True-HD
 - and what cables the audio system uses such as:
   Optical/TOSLINK or HDMI PASSTHROUGH
 
