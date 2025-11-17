@@ -1,5 +1,5 @@
 # Welcome to the A4K_Recommendations wiki!
-## What is kodi?
+## What is Kodi?
 The following was taken directly from the [Kodi website](https://kodi.tv/):
 
 Kodi® (formerly known as XBMC™) is an award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more. Kodi runs on Linux, OS X, Windows, iOS, and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet. Our forums and Wiki are bursting with knowledge and help for the new user right up to the application developer. We also have helpful Facebook, Google+, Twitter and Youtube pages.
