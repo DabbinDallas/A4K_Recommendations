@@ -31,7 +31,7 @@ __You will notice that the response is often the same though. Generally, users w
 
 - ### If you don't mind some tinkering or want to experiment a bit, you could try a RaspberryPi. Though after the additional costs are considered, you may find that there are better alternatives for the price. Using this option also means you may have to pick up parts and peripherals such as a remote separately. ###
 
-## ***Prices for these are from November 2025 so they're subject to change*** ##
+***Prices for these are from November 2025 so they're subject to change***
 If you want to ask this question on either the Kodi Forums or the Official Kodi Subreddits regarding which device to pick, you need to include some information about the points below so you can get a more customised individual response.
 
 - what will you be using this device for in addition to Kodi.
