@@ -33,12 +33,16 @@ __You will notice that the response is often the same though. Generally, users w
 
 ***PRICES FOR THESE ARE FROM NOVEMBER 2025 SO THEY'RE SUBJECT TO CHANGE***
 #
-If you want to ask this question on either the Kodi Forums or the Official Kodi Subreddits regarding which device to pick, you need to include some information about the points below so you can get a more customised individual response.
+If you want to ask about which device you should get/which device people are using then your best bet is on either; the Kodi Forums, the Official Kodi Subreddit, or the Androidtv Subreddit (Just make sure you dont mention third-party/piracy addons in your post as your post has a very high chance of getting deleted). Regarding which device to pick, you need to include some information about the points below so you can get a more customised individual response.
 
 - what will you be using this device for in addition to Kodi.
 - price range
 - your own technical ability
-- other technical requirements such as 5.1, DTS, DV, HDR 10/10+, Dolby Atmos, DTS-HD, True-HD, Optical Support or CEC
+- your tv/monitor display options such as only SDR, Dolby Vision, and/or HDR 10/10+
+- your audio system capabilities such as:
+  Surround 5.1, 7.1, DTS, DTS-HD, Dolby Atmos, Atmos True-HD
+- and what cables the audio system uses such as:
+  Optical/TOSLINK or HDMI PASSTHROUGH
 
 ## Installing addons
 
