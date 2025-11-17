@@ -25,7 +25,7 @@ __You will notice that the response is often the same though. Generally, users w
 
 - ### Budget options with Google Certification, DV and HDR 10, and the ability for WIFI/ethernet (sometimes requiring a usb to ethernet adapter) that are highly regarded are the Onn 4k Plus ($30), Onn 4k Pro ($45), and the Google Streamer ($75)
 
-- ### Mid-Range options (some of them lack google certification so certain regular apps wont work work correctly but they usually have support for Corelec so if Kodi is all you're ruinning on the device it doesnt matter) would be Dune HD R Plus ($150), and the RockTek G2 ($130) 
+- ### Mid-Range options (some of them lack google certification so certain regular apps wont work work correctly but they usually have support for Corelec so if Kodi is all you're running on the device it doesnt matter) would be Dune HD R Plus ($150), and the RockTek G2 ($130) 
 
 - ### High tier boxes with the most features (Including Dolby Vision FEL 7, Losseless Audio Support like Atmos and True-HD, 1gb Ethernet Jacks, and support for Corelec [Kodi Specific Bootloaders]) are gonna run you a pretty penny but for the enthusiasts that only use these boxes for Kodi and want the best out of their experience, most will say that they're worth the money. These boxes include Nvidia Shield PRO 2019 ($200 although you can get a used one for cheaper they might require repasting the CPU for optimal performance), Ugoos AM6B Plus ($188), Ugoos SK1 ($244)
 
