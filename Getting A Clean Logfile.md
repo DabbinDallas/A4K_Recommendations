@@ -29,7 +29,7 @@
 > 1. Restart Kodi completely before you do anything else
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d9521de0-c3ce-4bee-8244-4a42d5042e60" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/17d38cf8-e908-4f8a-9231-ba321edeb7b9" />
-> 2. Restart Kodi and recreate the error youve been experiencing by trying the same scenario that caused the error (Picture is just an example)
+> 2. Once Kodi has been restarted, recreate the error youve been experiencing by trying the same scenario that caused the error (Picture is just an example)
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/70643317-bc6f-478c-b539-40c824f525a1" />
 > 3. After you've recreated the error, back all the way out to the kodi homepage
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a0035ad4-46d8-4109-b919-b98648029592" />
