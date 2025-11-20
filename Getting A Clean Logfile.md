@@ -53,4 +53,4 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/30955662-ef02-496f-bfd3-9af71ee60d8d" />
 #
 #
-EDITORS NOTE: Inside specific addons there are ways to do the same logfile posting process in their tools/settings menus but i made this comprehensive guide as a catch all so you don't have to scrour these addons for where to find them, thus giving everyone an easy way to access log posting. There is also a specific addon i use daily that doesnt have this function.
+EDITORS NOTE: Inside specific addons there are ways to do the same logfile posting process in their tools/settings menus but i made this comprehensive guide as a catch all so you don't have to scour these addons for where to find them, thus giving everyone an easy way to access log posting. 
