@@ -1,4 +1,4 @@
-## In order to provide help on most posts in the A4K Subreddit, it is highly recommended to post a logfile as they usually provide alot of information that otherwise isnt visible and is more descriptive than what individuals can give with simple error message popups. So in this guide we'll walkthrough installing an addon that will allow you to easily copy and paste a logfile to include with your post AND how to set up a cleaner logfile for you to post
+## In order to provide help on most posts in the A4K Subreddit, it is highly recommended to post a logfile as they usually provide alot of information that otherwise isnt visible and is more descriptive than what individuals can give with simple error message popups or even with a relatively descriptive post. So in this guide we'll walkthrough installing an addon that will allow you to easily copy and paste a logfile to include with your post AND how to set up a cleaner logfile for you to post
 #
 > [!CAUTION]
 > ***AFTER FOLLOWING THE [IMPORTANT] SECTION, MAKE SURE YOU DONT SKIP THE [WARNING] SECTION AS THAT INCLUDES THE DEFINITIVE WAY FOR YOU TO GET A CLEAN LOG FOR POSTING***
