@@ -1,6 +1,6 @@
 # How to install my custom kodi build
 #
-1. Download these two files [Kodi Backup Tool](https://github.com/theWinterDojer/kodi-backup-tool/releases/download/v1.2.0/Kodi-Backup-Tool_v1.2.0.exe) and [Arizona Kodi](https://drive.google.com/file/d/1s2tuMekkbh50ovoF6_Hl3lyOCPneuFtT/view?usp=sharing)
+1. Download these two files on the computer youre trying to setup [Kodi Backup Tool](https://github.com/theWinterDojer/kodi-backup-tool/releases/download/v1.2.0/Kodi-Backup-Tool_v1.2.0.exe) and [Arizona Kodi](https://drive.google.com/file/d/1s2tuMekkbh50ovoF6_Hl3lyOCPneuFtT/view?usp=sharing)
 2. Open Kodi Backup Tool
 3. Click on the green "Restore" button at the bottom
 <img width="829" height="1142" alt="image" src="https://github.com/user-attachments/assets/76995733-b093-4b33-b4d0-86eb94d8185b" />
