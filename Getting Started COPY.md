@@ -1,4 +1,5 @@
-# Welcome to the A4K_Recommendations wiki!
+# Welcome to My revised A4K_Recommendations wiki! 
+# This is a fork of the [original wiki](https://github.com/a4k-mod/A4K_Recommendations/blob/main/Getting%20Started.md) with more updated information that i've slowly been working on
 ## What is Kodi?
 The following was taken directly from the [Kodi website](https://kodi.tv/):
 
