@@ -1,22 +1,5 @@
 # Recommended Add-ons
 #
-## The Crew
-An Exodus fork, with lots of sections for niche content. They have sections for sports, standup, adult content, and even live TV streams! Their official support channel is on Telegram: https://t.me/joinchat/MbCgH0kbQ5NqkeIm7JaCZg
-> [!WARNING]
-> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
-
-> [!IMPORTANT]
-> Installation:
-> 1. Go to the Kodi file manager
-> 2. Click on "Add source"
-> 3. The path for the source is http://team-crew.github.io/ (Give it a name [SourceName]).
-> 4. Go to "Add-ons"
-> 5. In Add-ons, select Install add-on from zip
-> 6. When asked for the location, select [SourceName], and install repository.thecrew-*.zip
-> 7. Go back to Add-ons install, but this time, select "Install from repository"
-> 8. Select the [Repository Name]
-> 9. Go into the "Video add-ons" section in the repo, and select The Crew
-
 ## DaddyLive/DaddyLive V2
 This is an add-on that specialises in Live Sports (Soccer, Basketball, Baseball, Football, Wrestling, Motorsport, Cricket, etc.) and Live TV. It is built around the official website for Daddylive
 
@@ -206,6 +189,23 @@ THIS ADD-ON IS OUTDATED AND NOT ACTIVELY MAINTAINED, WHEN KODI 22 COMES OUT IT W
 > [!TIP]
 > Optional: Install Context menu addon.
 > From the Nixgates Repo install context menu addons. This will give you many more options when you pull up context menu on Seren Items.
+
+## The Crew
+An Exodus fork, with lots of sections for niche content. They have sections for sports, standup, adult content, and even live TV streams! Their official support channel is on Telegram: https://t.me/joinchat/MbCgH0kbQ5NqkeIm7JaCZg
+> [!WARNING]
+> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is http://team-crew.github.io/ (Give it a name [SourceName]).
+> 4. Go to "Add-ons"
+> 5. In Add-ons, select Install add-on from zip
+> 6. When asked for the location, select [SourceName], and install repository.thecrew-*.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Video add-ons" section in the repo, and select The Crew
 
 ## Umbrella
 This addon started as a Venom fork that specializes in cached torrents, Easynews(web) account access, and also can use Magneto Module & CocoScrapers.
