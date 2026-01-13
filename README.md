@@ -1,7 +1,5 @@
 # Welcome to DabbinDallas' A4K Recommendations Repo! Your one stop resource guide for Kodi third party add-ons. 
-#
 # Also included in this repo are a Getting Started with Kodi Wiki (W.I.P.), Default Language Setup and Logfile Handling. 
-#
 # If theres anything you want to add, correct, or make easier to follow. Consider [submitting an issue](https://github.com/DabbinDallas/A4K_Recommendations/issues/new)
 #
 #
