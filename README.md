@@ -1,4 +1,13 @@
-# Most of this is a W.I.P. and was directly forked from the original A4K Repo so if theres anything you want to add or correct/make easier to follow consider [submitting an issue](https://github.com/DabbinDallas/A4K_Recommendations/issues/new)
+# Welcome to DabbinDallas' A4K Recommendations Repo! Your one stop resource guide for Kodi third party add-ons. 
+#
+# Also included in this repo are a Getting Started with Kodi Wiki (W.I.P.), Default Language Setup and Logfile Handling. 
+#
+# If theres anything you want to add, correct, or make easier to follow. Consider [submitting an issue](https://github.com/DabbinDallas/A4K_Recommendations/issues/new)
+#
+#
+#
+## Getting Started with Kodi (W.I.P.)
+If you'd like to know more about Kodi then consider visiting this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Getting%20Started%20(WIP).md) to read up on Kodi, learn more about Add-ons, Install/Device Resources, Safety issues, and Maintenence. This is one of the areas of the Repo that was fully reworked to include more up-to-date information so its worth checking out if you'd like to get better aquainted with Kodi's current landscape but as stated it's still a work in progress so take it as you will.
 
 ## Making a Recommendation
 If you'd like to make an addon recommendation to add to the recommended addons page then click on this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Make%20Recommendation.md), read through the example format and use as a template when submitting it as an issue in the link at the top of that page
