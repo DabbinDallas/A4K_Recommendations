@@ -29,7 +29,7 @@
 #
 #
 >[!CAUTION]
-> ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for pre-installing one of the external scraper modules for this next step at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md)
+> ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for pre-installing one of the external scraper modules for this next step at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md).
 > ## External Scraper Module Setup:
 > 1. Inside FenlightAM go into Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a4abfcae-34dc-4879-9b9c-c813516a09bb" />
@@ -41,7 +41,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/86a3ac11-c500-4d70-8728-e945c6293d18" />
 > 5. Click on Choose External Scrapers Module
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ba8658d9-026c-41c8-b44c-23dd10dc807e" />
-> 6. Look for the name of your Module and click on it
+> 6. Look for the name of the Module you installed and click on it
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fa8cafd6-fdb4-4882-b0a0-e0d2d0aa27d0" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/bfc1768d-915a-48de-a37f-5edf479f3c7c" />
 > 8. When done a box will pop up saying "Success [External Scraper Name] set as External Scraper" in which you can click OK and you'll be good to go
