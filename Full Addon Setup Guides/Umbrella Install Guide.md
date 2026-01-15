@@ -39,7 +39,7 @@
 #
 #
 >[!CAUTION]
-> ### Both of these next setups are required in order for the addon to actually work, theres a seperate guide for pre-installing one of the external scraper modules for this next step at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md)
+> ### Both of these next setups are required in order for the addon to actually work! You need to pre-install one of the external scraper modules for the next step so open this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) in a separate tab, pick which one you'd like to use (Magneto recommended), follow the install guide on that page, and then continue following the rest of the steps on this page once you've finished.
 > ## External Scraper Module Setup:
 > 1. Inside Umbrella go into Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d52e84a-c39b-4c17-94ce-50eaef5c801e" />
@@ -49,12 +49,12 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c638559-a699-4e60-a637-9f12147de91d" />
 > 4. Click on External Provider:
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7591e4e8-7b95-4f03-abd5-935268e6ad46" />
-> 5. Look for the name of your Module and click on it
+> 5. Look for the name of the Module you installed and click on it
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8d59a2d8-5191-4f01-a02d-147376ea8046" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a7b95040-54f2-4e9d-91c1-d5f9f6285fcf" />
 > 6. When done a box will pop up saying "[External Scraper Name] External module set succesfully" and youll be good to go
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/59dcdb6c-29a7-44b2-9273-efd91b8fffc1" />
->
+> 
 > ## Debrid Account Setup (We'll be using Real-Debrid as our example): 
 > 1. Inside Umbrella go into Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d52e84a-c39b-4c17-94ce-50eaef5c801e" />
