@@ -13,7 +13,7 @@ If you'd like to make an addon recommendation to add to the recommended addons p
 ## Full Addon Setup Guides
 The Recommended Addons section listed in the next section are barebones tutorials on how to get addons installed into your Kodi with some extra guidance for setting up certain parts of said addons but i've been slowly working on Full setup guides (with pictures for each step) for the most popular addons that include how to: __Install the addon onto Kodi, Setup External Scraper Modules, Add Watchlist Providers to keep track of your watch history/give more useability to the addons, and most importantly link up your Debrid Provider for each addon which is usually required for the addon to function__. So if you would like a more comprehensive guide to follow along, then you can click on the name of the addon you're trying to setup below ⬇️: 
 ### [FenlightAM](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/FenlightAM%20Setup%20Guide.md) (MOVIES AND TV)
-### [Otaku](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/Otaku%20Setup%20Guide.md) (ANIME)
+### [Otaku/Otaku Testing](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/Otaku%20Setup%20Guide.md) (ANIME)
 ### [POV](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/POV%20Setup%20Guide.md) (MOVIES AND TV)
 ### [Umbrella](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Full%20Addon%20Setup%20Guides/Umbrella%20Install%20Guide.md) (MOVIES AND TV)
 
