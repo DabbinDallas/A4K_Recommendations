@@ -33,7 +33,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1b28db40-e034-4919-8933-a43a8de0738b" />
 > 7. select continue with download
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4e3926df-e51a-459f-ad36-cb76bc1e18d7" />
-> 8. if youd like you can rename the title of the folder on the page that comes up and then press OK when done
+> 8. if youd like, you can rename the title of the folder on the page that comes up and then press OK when done
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0781ad33-7d12-40e9-9b51-b12cf5407297" />
 > 9. After youve started the download you'll occasionally see popups in the top right that show your progress and a final popup telling you when the download is finished
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/77d0a7bd-2df5-43be-b204-cb9830da966e" />
