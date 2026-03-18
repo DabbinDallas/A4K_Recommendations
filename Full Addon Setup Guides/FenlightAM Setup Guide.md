@@ -1,4 +1,4 @@
-# FenlightAM
+# ***FenlightAM***
 ## This is an add-on that specialises in Movies and Tv Shows, it used to specialize in Furk and Easynews(web) account access in the early days but mostly uses external providers to scrape regular hosters nowadays. Its one of the most popular add-ons and is actively maintained by Anonymouse with some extra help from the original Fenlight developer.
 > [!WARNING]
 > - Requires at least one paid premium provider (eg.Real Debrid, Premiumize, All-Debrid, etc.)
