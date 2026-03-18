@@ -1,4 +1,4 @@
-# Umbrella
+# ***Umbrella***
 ## This is an addon that started as a Venom fork which specializes in cached torrents using Magneto Module & CocoScrapers and Easynews(web) account access
 > [!WARNING]
 > - Requires at least one paid premium provider (eg. Real Debrid, Premiumize, All-Debrid, etc.)
