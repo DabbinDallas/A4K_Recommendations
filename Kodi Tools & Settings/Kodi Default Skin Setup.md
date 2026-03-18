@@ -18,7 +18,10 @@
 #
 #
 ## This part of the guide will go through each tab of the skin settings and give you more insight on what certain settings do. The "main menu items" section is the most important part to setup for ease of use with Third-Party addons with the other sections pointing out settings that might help in certain situations or give a small bit of customization.
-## General:
+
+#
+## ⚙️ General ⚙️
+#
 If you have a slower device or just dont like slide animations then turn that setting off
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e8ba2aca-15b5-475e-947d-fce21fce382e" />
 Enable auto scrolling for plot & review to be able to see full synopsis' of movies or tv shows in the sidebar of your addons
@@ -41,14 +44,18 @@ Example:
 {{PLACEHOLDER}}
 
 #
-## Main Menu items (This is the most important for this guide):
+#
+## 📱 Main Menu items 📱
+#
 To set your skin up for ease of use with Third-Party Addons you'll want to go through this page and turn off all menu items EXCEPT "addons"
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/efe8a63f-2d77-47c7-8be4-eb965a6ca716" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0d31ac1b-7ed0-40c5-9c50-b73ea561ea93" />
 (IMPORTANT) There's mention of editing widgets and category widgets on this page, we will be leaving the category widgets on for the addons section. There is a big rabbit hole for widgets and they actually give you more control over what you can have on the homepage of Kodi. if you're interested in using widgets then you'll have to do some research on the subject outside of my github page as I don't have any experience with them and dont have any writeups for them on here.
 
 #
-## Artwork:
+#
+## 🖼️ Artwork 🖼️
+#
 This is mainly a page for choosing fanart to display so i wont be changing much of this page. Some addons (specifically Otaku) display fanart in the background when browsing through Movies and Shows, if you want to just display the normal background then turn off the "Show media fanart as background" setting
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2b9e4cac-519e-440e-a744-4bf64dd7f1a7" />
 
@@ -59,11 +66,28 @@ Choose background pattern gives you some options to spruce up the background for
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce86fade-c3e0-4838-969a-16dac44fbee0" />
 
 #
-## On screen display:
+#
+## 🖥️ On screen display 🖥️
+#
 As far as I know Kodi already does this without messing with this setting but if you want it to happen faster then it's worth tinkering with (The setting refers to the ui that pops up when you're watching something and go to pause, stop, fastforward, etc.). To change the setting turn on the setting, click on "Video OSD autoclose time (seconds)", input the amount of seconds you want to try, and click OK to confirm your choice.
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/483d8a3c-69ef-4a9e-b266-02ea19471df2" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/821a1759-d8ba-4129-90d5-ee36d6122d4e" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7a4e856c-12fd-4b65-a0c0-3e5c3665d8e9" />
+
+#
+#
+#
+## At the end of this guide your homepage should look similar to this. This setup will make getting into your addons as easy as starting your Kodi and clicking on the addon you want to use without having to scroll through empty categories on the sidebar. This should also give you a jumping off point if you decide you want to download a different skin in the future (I won't be making a guide for other skins).
+
+#
+### Here's an example on a fresh Kodi install:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3d82b21c-d555-4e91-ba4b-3f822d931368" />
+
+### Here's an example with addons installed:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ac1609f6-eb06-4e42-8db7-2fc9fa7fe3ca" />
+
+
+
 
 
 
