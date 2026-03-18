@@ -1,4 +1,4 @@
-# ***How to setup the default Kodi skin (Estuary) for ease of use with thrid-party addons + some extra customization options***
+# ***How to setup the default Kodi skin (Estuary) for ease of use with third-party addons + some extra customization options***
 #
 #
 ## This part of the guide will help you navigate to the skin settings to start customizing
