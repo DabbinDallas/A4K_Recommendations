@@ -1,7 +1,7 @@
 # ***How to setup the default Kodi skin (Estuary) for ease of use with third-party addons + some extra customization options***
 #
 #
-## This part of the guide will help you navigate to the skin settings to start customizing
+## **This part of the guide will help you navigate to the skin settings to start customizing**
 #
 1. Go to Kodi Settings
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8ebed1be-0f98-4d4b-81f1-516c1c323212" />
@@ -18,35 +18,37 @@
 #
 #
 #
-## This part of the guide will go through each tab of the skin settings and give you more insight on what certain settings do. The "main menu items" section is the most important part to setup for ease of use with Third-Party addons with the other sections pointing out settings that might help in certain situations or give a small bit of customization.
+## **This part of the guide will go through each tab of the skin settings and give you more insight on what certain settings do. The "main menu items" section is the most important part to setup for ease of use with Third-Party addons with the other sections pointing out settings that might help in certain situations or give a small bit of customization.**
 
 #
-## ⚙️ General ⚙️
+## **⚙️ General ⚙️**
 #
-If you have a slower device or just dont like slide animations then turn that setting off
+If you have a slower device or just dont like slide animations then turn this setting off
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e8ba2aca-15b5-475e-947d-fce21fce382e" />
 Enable auto scrolling for plot & review to be able to see full synopsis' of movies or tv shows in the sidebar of your addons
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2e391b2e-994e-4598-a374-8b14f39b99b7" />
 
 Example:
-{{PLACEHOLDER}}
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ceccdb60-1acc-49df-8d53-386297f94a33" />
 
-If you're on a touch screen device then enable touch mode. This will add arrows you can click on to back out of menus to make it easy to navigate
+If you're on a touch screen device then enable touch mode. This will add arrows you can click on to back out of menus and certain menu elements to make it easier to navigate through Kodi.
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/56dd2dbc-7445-4a42-a97e-94f3970c6297" />
 
 Example:
-{{PLACEHOLDER}}
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7e7f5738-ea17-410d-a653-608e5cc1b571" />
 
 If you want ratings on the thumbnails of Movies and Shows then click on "Choose rating to display for media items" and choose the "rating" option
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8059a57d-ba37-4d6f-a19c-6242a83ffdb7" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/51748535-a014-46a7-baf9-4726a839a9fe" />
 
 Example:
-{{PLACEHOLDER}}
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b39c434d-e73c-473a-a720-5f6c818b9dd1" />
+
+
 
 #
 #
-## 📱 Main Menu items 📱
+## **📱 Main Menu items 📱**
 #
 To set your skin up for ease of use with Third-Party Addons you'll want to go through this page and turn off all menu items EXCEPT "addons"
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/efe8a63f-2d77-47c7-8be4-eb965a6ca716" />
@@ -55,7 +57,7 @@ To set your skin up for ease of use with Third-Party Addons you'll want to go th
 
 #
 #
-## 🖼️ Artwork 🖼️
+## **🖼️ Artwork 🖼️**
 #
 This is mainly a page for choosing fanart to display so i wont be changing much of this page. Some addons (specifically Otaku) display fanart in the background when browsing through Movies and Shows, if you want to just display the normal background then turn off the "Show media fanart as background" setting
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2b9e4cac-519e-440e-a744-4bf64dd7f1a7" />
@@ -68,7 +70,7 @@ Choose background pattern gives you some options to spruce up the background for
 
 #
 #
-## 🖥️ On screen display 🖥️
+## **🖥️ On screen display 🖥️**
 #
 As far as I know Kodi already does this without messing with this setting but if you want it to happen faster then it's worth tinkering with (The setting refers to the ui that pops up when you're watching something and go to pause, stop, fastforward, etc.). To change the setting turn on the setting, click on "Video OSD autoclose time (seconds)", input the amount of seconds you want to try, and click OK to confirm your choice.
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/483d8a3c-69ef-4a9e-b266-02ea19471df2" />
@@ -78,7 +80,7 @@ As far as I know Kodi already does this without messing with this setting but if
 #
 #
 #
-## At the end of this guide your homepage should look similar to this. This setup will make getting into your addons as easy as starting your Kodi and clicking on the addon you want to use without having to scroll through empty categories on the sidebar. This should also give you a jumping off point if you decide you want to download a different skin in the future (I won't be making a guide for other skins).
+## **At the end of this guide your homepage should look similar to this. This setup will make getting into your addons as easy as starting your Kodi and clicking on the addon you want to use without having to scroll through empty categories on the sidebar. This should also give you a jumping off point if you decide you want to download a different skin in the future (I won't be making a guide for other skins).**
 
 #
 ### Here's an example on a fresh Kodi install:
