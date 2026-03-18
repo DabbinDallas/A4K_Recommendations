@@ -1,7 +1,8 @@
-# How to setup the default Kodi skin (Estuary) for ease of use with thrid-party addons + some extra customization options
+# ***How to setup the default Kodi skin (Estuary) for ease of use with thrid-party addons + some extra customization options***
 #
 #
 ## This part of the guide will help you navigate to the skin settings to start customizing
+#
 1. Go to Kodi Settings
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8ebed1be-0f98-4d4b-81f1-516c1c323212" />
 2. Open the interface settings
