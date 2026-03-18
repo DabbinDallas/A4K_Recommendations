@@ -62,10 +62,13 @@ To set your skin up for ease of use with Third-Party Addons you'll want to go th
 This is mainly a page for choosing fanart to display so i wont be changing much of this page. Some addons (specifically Otaku) display fanart in the background when browsing through Movies and Shows, if you want to just display the normal background then turn off the "Show media fanart as background" setting
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2b9e4cac-519e-440e-a744-4bf64dd7f1a7" />
 
-Example:
-{{PLACEHOLDER}}
+Fanart ON:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0a975f77-8c50-456a-81ef-76ef4e9d0e05" />
+Fanart OFF:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f79cbf93-37e8-421b-9c88-73edb05534e1" />
 
-Choose background pattern gives you some options to spruce up the background for basic Kodi browsing, its not really important but it can give a little individuality to your Kodi setup so feel free to click on the setting to cycle through the options and choose what you like
+
+Choose background pattern gives you some options to spruce up the background for basic Kodi browsing (or all throughout Kodi if you chose to turn fanart off in the above setting) , its not really important but it can give a little individuality to your Kodi setup so feel free to click on the setting to cycle through the options and choose what you like
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce86fade-c3e0-4838-969a-16dac44fbee0" />
 
 #
