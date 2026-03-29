@@ -212,3 +212,58 @@ This Movie and Tv add-on started as a Venom fork that specializes in cached torr
 > 3. Click on External Provider: ________
 > 4. Look for your External Scraper Module (CocoScrapers or Magneto) and Click it to set it as the provider
 > 5. When done a message will pop up on the top-right of your screen saying "External module set successfully"
+
+#
+#
+#
+# SYSTEM AND TOOL ADDONS
+#
+#
+## a4kSubtitles
+This is a subtitle downloader addon that hooks directly into the Kodi Player ui for ease of use. What sets this apart from the subtitle addons found in the Kodi addons repository is: it gathers subtitles from multiple web sources, lets you automate downloading at the start of media playback, and has options for AI subtitle translation.
+> [!WARNING]
+> - Requires api keys and accounts for specific subtitle websites (Opensubtitles.com, SubDL, and SubSource)
+> - Requires api key for AI Providers
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is https://a4k-openproject.github.io/a4kSubtitles/packages/ (Give it a name [SourceName]).
+> 4. Go to "Add-ons"
+> 5. In Add-ons, select Install add-on from zip
+> 6. When asked for the location, select [SourceName], and install a4kSubtitles-repository.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Subtitles" section in the repo, and select a4kSubtitles
+
+> [!NOTE]
+> How to configure the addon:
+> 1. Go to Add-ons in the settings menu
+> 2. Click on My add-ons
+> 3. Open the subtitles category
+> 4. Select a4ksubtitles
+> 5. Choose "Configure"
+
+## Kodi Logfile Uploader
+This is a logfile viewer and uploader from the Kodi add-on repository. It gives a system-wide way to access the log for your Kodi session for use with troubleshooting and sharing with others. 
+> [!WARNING]
+> - For ease of use/keeping the logfile uncluttered when sharing on forums for help from others, if possible restart your Kodi completely and recreate the error before creating an upload of your logfile. I've written a full guide (with pictures) of this process already at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Kodi%20Tools%20%26%20Settings/Getting%20A%20Clean%20Logfile.md).
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go into the Kodi Settings
+> 2. Click on Add-ons
+> 3. Select Install from Repository
+> 4. Find the Kodi Add-on Repository
+> 5. Make your way down to and select Program add-ons
+> 6. Scroll down to Kodi Logfile Uploader
+> 7. Install the addon
+
+> [!NOTE]
+> Getting a logfile from this addon:
+> 1. On the Kodi homepage go into the addons tab and you should see this addon in the Program add-ons section
+> 2. When clicking on the addon it will bring up a menu asking to upload or view
+> 3. Upload will post it on https://paste.kodi.tv/ and give you the link and a QR Code for ease of access
+> 4. View will let you see the logfile from within Kodi for personal use 
+
