@@ -42,6 +42,7 @@
 #
 > [!NOTE]
 > ## Watchlist Provider Setup (This guide will use MAL as the example):
+> **⚠️ For Watchlist Provider Setup on anything other than PC, you'll want Kore/Official Kodi Remote setup to easily copy/paste Authorization URL's. Setup guide at this [L I N K](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/Kodi%20Tools%20&%20Settings/Kore%20Setup.md) ⚠️** 
 > 1. Go to Otaku Tools
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d7ef7917-724e-4ad3-897e-954c1d2b578a" />
 > 2. Open Settings Menu     
