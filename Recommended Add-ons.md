@@ -19,7 +19,8 @@ A fork of Quasar, Elementum uses a new torrent engine with extra features such a
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select plugin.video.elementum add-on
 
-## FenlightAM
+## FenlightAM (Deprecated)
+⚠️ This addon is no longer supported and requires making public and secret keys for Trakt or api keys for MDBlist for use, when things settle down i'll update this to a maintained fork but id suggest using something else (POV is my recommended addon) for now. ⚠️
 This is a Movies and TV add-on, forked from the original Fen. It is actively maintained by Fenlightanonymouse and the previous fenlight developer. It uses external scraper modules to find high quality movie and tv sources with a netflix like interface (giant posters and embeded Trakt lists for easy navigation). Its one of the most recommended Add-ons in the A4K subreddit.
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
