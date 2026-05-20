@@ -19,6 +19,64 @@ POV is a Movies and Tv add-on with a built in Scraper Module that can source fro
 > 8. Select the [Repository Name]
 > 9. Go into the "Video add-ons" section in the repo, and select POV add-on
 
+## ***Red Light***
+This is a Movies and TV add-on, forked from FenlightAM. It is actively maintained by The Red Wizard. It uses external scraper modules to find high quality movie and tv sources with a netflix like interface (giant posters and embeded Trakt lists for easy navigation). It's one of the forks thats been recommended by many on the A4Ksubreddit and they seem to keep there head down and code solid add-ons so i'll be keeping my eye on them for the foreseeable future.
+> [!WARNING]
+> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
+> - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is https://repo.redwizard.xyz (Give it a name [SourceName]).
+> 4. Go to "Add-ons"
+> 5. In Add-ons, select Install add-on from zip
+> 6. When asked for the location, select [SourceName], and install repository.redwizard-*.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Video add-ons" section in the repo, and select Red Light add-on
+
+>[!NOTE]
+> External Scraper Module Setup:
+> 1. Inside Redlight go into Tools
+> 2. Click on Settings
+> 3. Go down to the Accounts tab 
+> 4. Enable External Scrapers
+> 5. Click on Choose External Scrapers Module
+> 6. Look for the name of your Module and click on it
+> 7. When done a box will pop up saying "Success [External Scraper Name] set as External Scraper"
+> 8. Press OK
+
+## ***The Gears***
+This is a Movies and TV add-on, forked from FenlightAM. It is actively maintained by Unhingedthemes. It uses external scraper modules to find high quality movie and tv sources with a netflix like interface (giant posters and embeded Trakt lists for easy navigation). The add-on comes pre-packaged with a scraper module making the setup easier than other forks. It's one of the forks thats been recommended by many on the A4Ksubreddit.
+> [!WARNING]
+> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
+> - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
+
+> [!IMPORTANT]
+> Installation:
+> 1. Go to the Kodi file manager
+> 2. Click on "Add source"
+> 3. The path for the source is https://unhingedthemes.github.io (Give it a name [SourceName]).
+> 4. Go to "Add-ons"
+> 5. In Add-ons, select Install add-on from zip
+> 6. When asked for the location, select [SourceName], and install repository.chainsrepo-*.zip
+> 7. Go back to Add-ons install, but this time, select "Install from repository"
+> 8. Select the [Repository Name]
+> 9. Go into the "Video add-ons" section in the repo, and select The Gears add-on
+
+>[!NOTE]
+> External Scraper Module Setup:
+> 1. Inside The Gears go into Tools
+> 2. Click on Settings
+> 3. Go down to the Accounts tab 
+> 4. Enable External Scrapers
+> 5. Click on Choose External Scrapers Module
+> 6. Select Gears Scrapers or another scraper module
+> 7. When done a box will pop up saying "Success [External Scraper Name] set as External Scraper"
+> 8. Press OK
+
 ## ***Umbrella***
 This Movie and Tv add-on started as a Venom fork that specializes in cached torrents, Easynews(web) account access, and also can use Magneto Module & CocoScrapers. It is actively maintained by the Umbrella_Dev and is Recommended alot in the A4K Subreddit, if you're looking for an add-on with LOADS of customization then this is the one you want. This is an advanced add-on so if you're new to Kodi then i'd say stick to one of the other Movie and Tv add-ons.
 > [!WARNING]
@@ -88,7 +146,7 @@ A Movie and Tv add-on created by Nix, it works with Debrid Providers to stream t
 
 ## ***FenlightAM (Deprecated)***
 
-⚠️ This addon is no longer supported and requires making public and secret keys for Trakt or api keys for MDBlist for use, when things settle down i'll update this to a maintained fork but id suggest using something else (POV is my recommended addon) for now. ⚠️
+⚠️ This addon is no longer supported and requires making public and secret keys for Trakt or api keys for MDBlist for use, If you've used FenlightAM in the past and are looking for a functional replacement fork then i'd suggest Red Light or The Gears above. ⚠️
 
 This is a Movies and TV add-on, forked from the original Fen. It is actively maintained by Fenlightanonymouse and the previous fenlight developer. It uses external scraper modules to find high quality movie and tv sources with a netflix like interface (giant posters and embeded Trakt lists for easy navigation). Its one of the most recommended Add-ons in the A4K subreddit.
 > [!WARNING]
