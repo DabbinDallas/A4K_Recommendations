@@ -20,7 +20,7 @@ POV is a Movies and Tv add-on with a built in Scraper Module that can source fro
 > 9. Go into the "Video add-ons" section in the repo, and select POV add-on
 
 ## ***Red Light***
-This is a Movies and TV add-on, forked from FenlightAM. It is actively maintained by The Red Wizard. It uses external scraper modules to find high quality movie and tv sources with a netflix like interface (giant posters and embeded Trakt lists for easy navigation). It's one of the forks thats been recommended by many on the A4Ksubreddit and they seem to keep there head down and code solid add-ons so i'll be keeping my eye on them for the foreseeable future.
+This is a Movies and TV add-on, forked from FenlightAM. It is actively maintained by The Red Wizard. It uses external scraper modules to find high quality movie and tv sources with a netflix like interface (giant posters and embeded Trakt lists for easy navigation). It's one of the forks thats been recommended by many on the A4Ksubreddit and they seem to keep their head down and code solid add-ons so i'll be keeping my eye on them for the foreseeable future.
 > [!WARNING]
 > - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
 > - Requires a [External Scraper Module](https://github.com/DabbinDallas/A4K_Recommendations/blob/main/External%20Scraper%20Modules.md) to function
