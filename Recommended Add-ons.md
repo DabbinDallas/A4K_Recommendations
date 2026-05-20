@@ -1,5 +1,5 @@
 # Recommended Add-ons
-# This is a small curated list of add-ons for ease of navigation and simple instructions provided for setup. As i test more addons or see people talking about certain addons more in the A4Ksubreddit i will add them to this list and provide the necessary steps for setup. Highly recommended add-ons with developers who are active in the community and add-ons i use on a regular basis will get full setup guides posted in the ["Full Addon Setup Guides"](https://github.com/DabbinDallas/A4K_Recommendations#full-addon-setup-guides) section on this Github.
+# This is a small curated list of add-ons for ease of navigation and simple instructions provided for setup. As I test more addons or see people talking about certain addons more in the A4Ksubreddit I will add them to this list and provide the necessary steps for setup. Highly recommended add-ons with developers who are active in the community and add-ons I use on a regular basis will get full setup guides posted in the ["Full Addon Setup Guides"](https://github.com/DabbinDallas/A4K_Recommendations#full-addon-setup-guides) section on this Github.
 #
 # **Movies and Tv Shows (Debrid)**
 ## ***POV***
