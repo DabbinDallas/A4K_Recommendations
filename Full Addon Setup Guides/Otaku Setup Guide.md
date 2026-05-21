@@ -83,7 +83,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ebc690aa-5ec7-4af9-b1eb-d2cdd3ad7d25" />
 > 5. Click on Authorize TorBox...
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f65b64bb-789f-4473-bdac-7ced9513aa66" />
-> 6. Follow the on-screen instructions (MAKE SURE YOU'RE LOGGED IN TO TORBOX ON THE DEVICE YOU USE TO DO THE NEXT STEPS) 
+> 6. Follow the on-screen instructions (MAKE SURE THE DEVICE YOU'RE USING FOR THE NEXT STEPS IS LOGGED INTO TORBOX) 
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/211f6cf3-f609-4ff1-b2f1-cb8fdd98b17f" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7d917647-cff3-495d-854a-cb4b3e7eab6c" />
 > 7. Enter the code shown in line 2 of the box thats shown in Kodi and click continue
