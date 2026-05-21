@@ -64,24 +64,22 @@
 #
 #
 > [!CAUTION]
-> ## Debrid Provider Setup {REQUIRED STEP} (This guide will use Real-Debrid as the example):
+> ## Debrid Provider Setup {REQUIRED STEP} (This guide will use TorBox as the example):
 > 1. Go to POV Settings
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f9399167-eb12-4520-87c7-8e8518751434" />
 > 2. Open My Services
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/13f0c203-ed96-4a70-8e55-d8661b766af1" />
-> 3. Click on Real-Debrid (or whatever Debrid Service you're trying to setup)
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5ac0b68e-970c-44e2-a5c1-df34c0168348" />
-> 4. Copy and Paste the link thats displayed on the screen that pops up or scan the qr code (THIS IS WHERE THE INSTRUCTIONS ARE GOING TO CHANGE DEPENDING ON THE DEBRID PROVIDER YOURE TRYING TO SETUP)
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/61cf70ec-b9c0-4216-bccc-784cba889c77" />
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dfb5b372-0a76-48b7-8c83-3c745a67919a" />
-> 5. Enter your pin code thats displayed in the popup screen inside Kodi into the text box that appears on the webpage and click continue
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/627fd8c3-4ffb-4a09-b1a6-b983fb743b8d" />
-> 6. Login to your debrid account
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d8622e81-8afe-4ea0-a923-003b2eb2181f" />
-> 7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1f348c12-a9d5-4cb5-92b3-dfdbe66b7172" />
-> 8. Once you get to this page, go back into Kodi and you should be good to go
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dd15350b-220c-433c-953d-e6ce8a2071b0" />
+> 3. Click on Torbox
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/73cf7c22-f325-45ad-99a2-f49255c77d69" />
+> 4. Copy and Paste the link thats displayed on the screen that pops up or scan the qr code (MAKE SURE THE DEVICE YOU'RE USING TO COMPLETE THESE NEXT STEPS IS LOGGED INTO TORBOX)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dc650328-b706-4a04-a000-cb29130a4b94" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5926c336-73e2-4310-8142-abcc8892ed5e" />
+> 5. Enter your pin code thats displayed in the popup screen inside Kodi into the boxes that appears on the webpage and click continue
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c9c507b4-6bbe-4cae-84f2-7d9650c03d48" />
+> 6. Once you click continue you should see a confirmation that the addon has been linked, go back into Kodi and you'll see a message confirming the link to TorBox and you should be good to go
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/08092154-1cb9-4ee1-b0e6-0803eb591b6a" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/26834152-2f2e-484f-b559-f434be568d5c" />
+
 
 
 
