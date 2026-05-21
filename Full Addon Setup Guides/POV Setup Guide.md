@@ -71,7 +71,7 @@
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/13f0c203-ed96-4a70-8e55-d8661b766af1" />
 > 3. Click on Torbox
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/73cf7c22-f325-45ad-99a2-f49255c77d69" />
-> 4. Copy and Paste the link thats displayed on the screen that pops up or scan the qr code (MAKE SURE THE DEVICE YOU'RE USING TO COMPLETE THESE NEXT STEPS IS LOGGED INTO TORBOX)
+> 4. Copy and Paste the link thats displayed on the screen that pops up or scan the qr code (MAKE SURE THE DEVICE YOU'RE USING FOR THE NEXT STEPS IS LOGGED INTO TORBOX)
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dc650328-b706-4a04-a000-cb29130a4b94" />
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5926c336-73e2-4310-8142-abcc8892ed5e" />
 > 5. Enter your pin code thats displayed in the popup screen inside Kodi into the boxes that appears on the webpage and click continue
