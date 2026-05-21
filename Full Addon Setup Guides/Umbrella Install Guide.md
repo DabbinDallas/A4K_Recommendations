@@ -55,27 +55,21 @@
 > 6. When done a box will pop up saying "[External Scraper Name] External module set succesfully" and youll be good to go
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/59dcdb6c-29a7-44b2-9273-efd91b8fffc1" />
 > 
-> ## Debrid Account Setup (We'll be using Real-Debrid as our example): 
+> ## Debrid Account Setup (We'll be using TorBox as our example): 
 > 1. Inside Umbrella go into Tools
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d52e84a-c39b-4c17-94ce-50eaef5c801e" />
-> 2. Click on SETTINGS:Accounts
+> 2. Click on SETTINGS : Accounts
 > <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fa4a2bda-adc1-4ccb-aa45-74dadc4c3099" />
-> 3. Click Authorization on the Debrid provider you're trying to setup (THIS IS WHERE THE INSTRUCTIONS ARE GOING TO CHANGE DEPENDING ON THE DEBRID PROVIDER YOURE TRYING TO SETUP)
-> 
-> - (Optionally) For Real-Debrid you might have to activate the alternate API address before step 3 (pictured below)
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/461410d6-00bc-4dd3-902f-87d69d2d7b13" />
-> 4. Follow the onscreen instructions (we're gonna copy and paste the url in this guide for better images)
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/078d6486-1cf5-4dd0-9b49-a79ce934080c" />
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dd3761dc-1c17-49ce-8fcf-77239d410794" />
-> 5. Enter the code that is displayed on the second line of the box in Kodi and press Continue
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/31374629-7d55-4d19-9dcd-6c21b00b20de" />
-> 6. Login to your Debrid Account on this page
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/82e56223-9dbc-4508-a852-66c3195d9f42" />
-> 7. {Optionally} you can set a name once account authorization has been confirmed for easier troubleshooting in the future and then click Set that name
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cef01b0c-d155-4be1-9ea0-afc349a98de9" />
-> 8. Once you get to this page, go back into Kodi and you should see a window that pops up confirming the account link and you should be all good to go
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9a640414-56cd-4ea0-bbbc-240af7219676" />
-> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/586c78b3-412a-47d2-a3f4-588b2b069234" />
+> 3. Click Authorization on the Debrid provider you're trying to setup 
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c94d6c0-d760-44ef-ac51-96ec4de38f78" />
+> 4. Follow the onscreen instructions (MAKE SURE THE DEVICE YOU'RE USING FOR THE NEXT STEPS IS LOGGED INTO TORBOX)
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/83234b09-84ca-4e11-81a6-dc5f874e995f" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5fb9ca18-d23a-44dd-b354-f4dd8a1598e0" />
+> 5. Enter the code that is displayed on the 2nd step of the box in Kodi and press Continue
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6dbae559-18c8-43f2-a9ba-a913ae1511db" />
+> 6. Once you click continue you should see a confirmation that the addon has been linked, go back into Kodi and you'll see a message confirming the link to TorBox and you should be good to go 
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dc0ae5bf-a963-4d5d-b9b7-182483fa7bd6" />
+> <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e7ed5dbd-1f07-4fc1-8abc-3f866455d118" />
 #
 #
 #
