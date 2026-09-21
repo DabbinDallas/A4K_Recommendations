@@ -103,46 +103,43 @@ This Movie and Tv add-on started as a Venom fork that specializes in cached torr
 > 4. Look for your External Scraper Module (CocoScrapers or Magneto) and Click it to set it as the provider
 > 5. When done a message will pop up on the top-right of your screen saying "External module set successfully"
 
-## ***Seren (Deprecated)***
+## ***Prism***
 
-⚠️ THIS ADD-ON IS OUTDATED AND NOT ACTIVELY MAINTAINED, WHEN KODI 22 COMES OUT IT WILL CEASE TO WORK UNTIL SOMEONE MAKES AN UPDATE. ONLY USE THIS ADDON IF YOUR LOOKING FOR A VERY WATERED DOWN ADDON WITH MINIMAL MENU/SETTING OPTIONS. ⚠️
-
-A Movie and Tv add-on created by Nix, it works with Debrid Providers to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Next up Dialogs. With source select / Resolver / Next up Dialog and more all theme-able. 
+An AIO (Movies, TV Shows, and Anime) addon created by the developers behind Otaku, TeamOtaku. It's still in Beta but has been updated frequently with new features and bug fixes.
 
 > [!WARNING]
-> - Requires paid premium providers (eg.Premiumize, Real Debrid, All-Debrid, etc.)
-> - Requires a Trakt account
+> - Paid premium providers (eg. Premiumize, Torbox, Offcloud etc.) provide a way better experience but it can be used without if you don't mind low quality embed or direct streams (use Provider Package Setup step 6.1 instead of step 6)
+> - Requires a Provider Package to function (similar to External Scraper Modules in Umbrella, Redlight, etc.)
+> - Requires a Simkl account for watchlist functionality
 
 > [!IMPORTANT]
-> Installation:
-> 1. Go to the Kodi file manager
-> 2. Click on "Add source"
-> 3. The path for the source is https://nixgates.github.io/packages/ (Give it a name [SourceName]).
-> 4. Go to "Add-ons"
-> 5. In Add-ons, select Install add-on from zip
-> 6. Select repository.nixgates-*.zip
-> 7. Go back to Add-ons install, but this time, select "Install from repository"
-> 8. Select the [Repository Name]
-> 9. Go into the "Video add-ons" section in the repo, and select Seren add-on
-> 10. Once installed, go back to the Kodi file manager
-> 11. Click on "Add source"
-> 12. The path for the source is https://bbviking.github.io/ (Give it a name [SourceName]).
-> 13. Go to "Add-ons"
-> 14. In Add-ons, select Install add-on from zip
-> 15. Select plugin.video.seren-*.zip
+> ## Installation:
+> 1. Open up Kodi Settings ( ⚙️ )
+> 2. Go to the Kodi file manager
+> 3. Click on "Add source"
+> 4. Click on Enter Path...
+> 5. Enter the path for Prism: https://goldenfreddy0703.github.io/repository.prism (Give it a name [SourceName]) and click OK
+> 6. Go back to "Add-ons"
+> 7. In Add-ons, select Install from zip file
+> 8. When asked for the location, select [SourceName]
+> 9. Select repository.prism-*.zip
+> 10. Go back to Add-on browser, but this time, select Install from repository
+> 11. Select the [Repository Name]
+> 12. Go into the Video add-ons section in the repo
+> 13. Click on Prism
+> 14. Install Prism
 
 > [!NOTE]
-> FOR THE ADDON TO WORK YOU MUST FOLLOWS THESE STEPS AS WELL
-> 1. In Seren go to tools
-> 2. Open Settings Menu
-> 3. Go to Accounts and authenticate Trakt and your debrid providers: Premiumize, Real Debrid, and/or All Debrid
-> 4. Scroll down to the Providers tab and click on Manage Provider Packages > Install Package.
-> 5. Type in https://bit.ly/a4kScrapers
-> 6. A prompt will come up asking if you'd like to install the scrapers, Press "Install", then Press Okay after successful install
-
-> [!TIP]
-> Optional: Install Context menu addon.
-> From the Nixgates Repo install context menu addons. This will give you many more options when you pull up context menu on Seren Items.
+> ## Provider Package Setup:
+> ⚠️ For the addon to work you must follow these steps as well ⚠️
+> 1. Inside Prism go into Tools
+> 2. Click on Provider Tools
+> 3. Manage Provider Packages...
+> 4. Install Package
+> 5. Web Location...
+> 6. Enter this zip url for Debrid usage: https://api.github.com/repos/Goldenfreddy0703/a4kScrapers/zipball
+> 6.1. Enter this zip url for Embed/Direct (Free) usage: https://api.github.com/repos/Goldenfreddy0703/a4kEmbeds/zipball
+> 7. Click Install on the box that comes up
 
 ## ***FenlightAM (Deprecated)***
 
